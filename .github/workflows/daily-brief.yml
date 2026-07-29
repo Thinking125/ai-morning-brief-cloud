@@ -1,0 +1,46 @@
+name: Update AI Morning Brief
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ai-morning-brief
+  cancel-in-progress: false
+
+jobs:
+  update-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install --requirement requirements.txt
+
+      - name: Collect RSS news
+        run: python summarizer.py
+
+      - name: Save updated article history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/articles.json
+          if git diff --cached --quiet; then
+            echo "No new RSS articles to commit."
+          else
+            git commit -m "Update daily AI morning brief"
+            git push
+          fi

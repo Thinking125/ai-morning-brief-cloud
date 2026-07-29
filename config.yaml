@@ -1,0 +1,44 @@
+# RSS feeds are free and do not require API keys.
+feeds:
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+  - name: Google AI
+    url: https://blog.google/technology/ai/rss/
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+
+# The report uses the completed 24-hour window from 08:00 yesterday to
+# 08:00 today in Asia/Shanghai. Fetch extra entries so busy feeds are less
+# likely to omit an article published during that window.
+max_articles_per_feed: 30
+max_report_items: 5
+minimum_importance_score: 2
+
+# Keywords are intentionally editable: they control relevance and importance.
+ai_keywords:
+  - artificial intelligence
+  - AI
+  - machine learning
+  - large language model
+  - LLM
+  - generative AI
+  - foundation model
+  - neural network
+  - agent
+  - multimodal
+
+important_keywords:
+  - launch
+  - release
+  - announce
+  - model
+  - research
+  - open source
+  - funding
+  - acquisition
+  - regulation
+  - safety
+  - benchmark
+  - partnership
