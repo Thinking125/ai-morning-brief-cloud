@@ -377,10 +377,15 @@ def main() -> None:
         }
 
     last_update_value = current_stats["last_update"]
-    last_update = (
-        last_update_value.strftime("%Y-%m-%d %H:%M")
+    last_update_date = (
+        last_update_value.strftime("%Y-%m-%d")
         if last_update_value
         else "Never"
+    )
+    last_update_time = (
+        f"{last_update_value:%H:%M} · Asia/Shanghai"
+        if last_update_value
+        else "No update recorded yet"
     )
 
     briefing_start = current_stats["briefing_start"]
@@ -389,11 +394,14 @@ def main() -> None:
     st.subheader("Today's front page")
     update_columns = st.columns(3, vertical_alignment="center")
     with update_columns[0].container(border=True):
-        st.metric("Last update", last_update)
+        st.metric("Last update", last_update_date)
+        st.caption(last_update_time)
     with update_columns[1].container(border=True):
         st.metric("Briefing articles", current_stats["briefing"])
+        st.caption("Current 08:00–08:00 edition")
     with update_columns[2].container(border=True):
         st.metric("Archive", current_stats["total"])
+        st.caption("All saved RSS articles")
     st.caption(
         f"Edition window: {briefing_start:%Y-%m-%d %H:%M} to "
         f"{briefing_end:%Y-%m-%d %H:%M} (Asia/Shanghai)"
