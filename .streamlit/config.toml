@@ -1,0 +1,37 @@
+# A warm, print-inspired theme for the AI Morning Brief.
+[theme]
+base = "light"
+primaryColor = "#173A5E"
+backgroundColor = "#FFFCF6"
+secondaryBackgroundColor = "#F2ECE1"
+codeBackgroundColor = "#E9E1D4"
+textColor = "#20272C"
+linkColor = "#A34232"
+borderColor = "#D4CAB9"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "4px"
+buttonRadius = "full"
+font = "sans-serif"
+headingFont = "serif"
+baseFontSize = 16
+baseFontWeight = 400
+headingFontSizes = ["42px", "28px", "22px", "18px", "16px", "14px"]
+headingFontWeights = [700, 700, 600, 600, 600, 600]
+linkUnderline = false
+
+# Muted editorial accents for badges and status messages.
+blueColor = "#285D83"
+greenColor = "#3F6B52"
+orangeColor = "#A76532"
+redColor = "#A34232"
+violetColor = "#67517A"
+grayColor = "#6B6A64"
+
+[theme.sidebar]
+backgroundColor = "#F2ECE1"
+secondaryBackgroundColor = "#E9E1D4"
+codeBackgroundColor = "#E9E1D4"
+textColor = "#20272C"
+borderColor = "#D4CAB9"
+primaryColor = "#173A5E"
