@@ -336,15 +336,38 @@ def main() -> None:
     )
     initialize_reader_state()
 
-    st.caption(
-        "DAILY AI INTELLIGENCE · RSS EDITION",
-        text_alignment="center",
+    # Keep the newspaper name visible while readers scroll through the stories.
+    st.html(
+        """
+        <style>
+        .st-key-sticky_masthead {
+            position: sticky;
+            top: 3.75rem;
+            z-index: 999;
+            padding: 0.55rem 0 0.7rem;
+            background: rgba(255, 252, 246, 0.96);
+            border-bottom: 1px solid #d4cab9;
+            backdrop-filter: blur(10px);
+        }
+
+        .st-key-sticky_masthead h1 {
+            margin: 0;
+            font-size: clamp(1.8rem, 4vw, 2.8rem);
+            line-height: 1.08;
+        }
+
+        .st-key-sticky_masthead p {
+            margin: 0.25rem 0 0;
+        }
+        </style>
+        """
     )
-    st.title("The AI Morning Brief", text_alignment="center")
-    st.caption(
-        "A concise newspaper for learning AI, industry trends, and English.",
-        text_alignment="center",
-    )
+    with st.container(key="sticky_masthead"):
+        st.title("The AI Morning Brief", text_alignment="center")
+        st.caption(
+            "A concise newspaper for learning AI and industry trends",
+            text_alignment="center",
+        )
 
     if message := st.session_state.pop("reader_message", None):
         st.toast(message, icon=":material/check_circle:")
@@ -383,7 +406,7 @@ def main() -> None:
         else "Never"
     )
     last_update_time = (
-        f"{last_update_value:%H:%M} · Asia/Shanghai"
+        f"{last_update_value:%H:%M} · Asia/Beijing"
         if last_update_value
         else "No update recorded yet"
     )
@@ -397,16 +420,11 @@ def main() -> None:
         st.metric("Last update", last_update_date)
         st.caption(last_update_time)
     with update_columns[1].container(border=True):
-        st.metric("Briefing articles", current_stats["briefing"])
-        st.caption("Current 08:00–08:00 edition")
+        st.metric("New Articles", current_stats["briefing"])
+        st.caption("During Last 24h")
     with update_columns[2].container(border=True):
-        st.metric("Archive", current_stats["total"])
+        st.metric("All Articles", current_stats["total"])
         st.caption("All saved RSS articles")
-    st.caption(
-        f"Edition window: {briefing_start:%Y-%m-%d %H:%M} to "
-        f"{briefing_end:%Y-%m-%d %H:%M} (Asia/Shanghai)"
-    )
-    st.caption("A fresh edition is prepared automatically every day at 08:00.")
 
     if not articles and not load_error:
         st.error("No article data was found in the cloud article store.")
@@ -420,12 +438,14 @@ def main() -> None:
         st.warning(f"{articles_file.name} does not contain any articles.")
         st.stop()
 
+    st.subheader("News view")
     news_view = st.segmented_control(
         "News view",
         options=["Morning briefing", "All history", "Collected"],
         default="Morning briefing",
         required=True,
         key="news_view",
+        label_visibility="collapsed",
     )
     if news_view == "Collected":
         view_articles = list(
