@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import sqlite3
 from datetime import date, datetime
 from pathlib import Path
@@ -26,12 +27,125 @@ from database import (
 
 PROJECT_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = PROJECT_DIR / "output"
+BROWSER_STORAGE_KEY = "ai_morning_brief_reader_v1"
+BROWSER_STORAGE_COMPONENT_KEY = "reader_browser_storage"
+
+
+_BROWSER_STORAGE = st.components.v2.component(
+    "ai_morning_brief_browser_storage",
+    html='<div id="storage-bridge" hidden></div>',
+    js="""
+const initializedRoots = new WeakSet()
+
+export default function (component) {
+  const { data, parentElement, setStateValue } = component
+  const storageKey = data.storageKey
+  const incomingPayload = data.payload
+
+  try {
+    if (!initializedRoots.has(parentElement)) {
+      const savedPayload = window.localStorage.getItem(storageKey)
+
+      if (savedPayload !== null && savedPayload !== incomingPayload) {
+        setStateValue("payload", savedPayload)
+      } else if (savedPayload === null) {
+        window.localStorage.setItem(storageKey, incomingPayload)
+      }
+
+      initializedRoots.add(parentElement)
+      return
+    }
+
+    window.localStorage.setItem(storageKey, incomingPayload)
+  } catch (error) {
+    setStateValue("error", String(error))
+  }
+}
+""",
+)
 
 
 def initialize_reader_state() -> None:
-    """Create private, temporary storage for one visitor's browser tab."""
+    """Create the in-memory copy used while one visitor reads the page."""
     st.session_state.setdefault("collected_articles", {})
     st.session_state.setdefault("article_notes", {})
+
+
+def _component_value(component_state: Any, name: str) -> Any:
+    """Read a value from either a component result or a plain dictionary."""
+    if isinstance(component_state, dict):
+        return component_state.get(name)
+    return getattr(component_state, name, None)
+
+
+def restore_reader_state_from_browser() -> None:
+    """Restore collected articles and notes sent from browser storage."""
+    component_state = st.session_state.get(BROWSER_STORAGE_COMPONENT_KEY)
+    raw_payload = _component_value(component_state, "payload")
+    if not isinstance(raw_payload, str):
+        return
+
+    try:
+        saved_data = json.loads(raw_payload)
+        if not isinstance(saved_data, dict):
+            raise ValueError("Saved reading data has an unexpected format.")
+        raw_articles = saved_data.get("collected_articles", {})
+        raw_notes = saved_data.get("article_notes", {})
+        if not isinstance(raw_articles, dict) or not isinstance(raw_notes, dict):
+            raise ValueError("Saved reading data has an unexpected format.")
+
+        collected_articles = {
+            str(key): dict(article)
+            for key, article in raw_articles.items()
+            if isinstance(article, dict)
+        }
+        article_notes = {
+            str(key): str(note)
+            for key, note in raw_notes.items()
+            if str(note).strip()
+        }
+    except (json.JSONDecodeError, TypeError, ValueError) as error:
+        st.session_state["reader_storage_error"] = (
+            f"Saved browser data could not be restored: {error}"
+        )
+        return
+
+    st.session_state["collected_articles"] = collected_articles
+    st.session_state["article_notes"] = article_notes
+    st.session_state.pop("reader_storage_error", None)
+    if collected_articles or article_notes:
+        st.session_state["reader_message"] = "Your saved reading desk was restored."
+
+
+def record_browser_storage_error() -> None:
+    """Keep a friendly message when the browser blocks local storage."""
+    component_state = st.session_state.get(BROWSER_STORAGE_COMPONENT_KEY)
+    error = _component_value(component_state, "error")
+    if error:
+        st.session_state["reader_storage_error"] = str(error)
+
+
+def mount_browser_storage() -> None:
+    """Load once from the browser, then save reader changes automatically."""
+    payload = json.dumps(
+        {
+            "version": 1,
+            "collected_articles": st.session_state["collected_articles"],
+            "article_notes": st.session_state["article_notes"],
+        },
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+    _BROWSER_STORAGE(
+        key=BROWSER_STORAGE_COMPONENT_KEY,
+        data={
+            "storageKey": BROWSER_STORAGE_KEY,
+            "payload": payload,
+        },
+        height=0,
+        on_payload_change=restore_reader_state_from_browser,
+        on_error_change=record_browser_storage_error,
+    )
 
 
 def article_key(article: dict[str, Any]) -> str:
@@ -59,7 +173,7 @@ def toggle_collection(article: dict[str, Any], key: str) -> None:
 
 
 def save_note(key: str, widget_key: str) -> None:
-    """Save or remove a personal note from this browser session."""
+    """Save or remove a personal note from this browser."""
     note = str(st.session_state.get(widget_key, "")).strip()
     notes = st.session_state["article_notes"]
     if note:
@@ -335,6 +449,7 @@ def main() -> None:
         layout="centered",
     )
     initialize_reader_state()
+    mount_browser_storage()
 
     # Keep the newspaper name visible while readers scroll through the stories.
     st.html(
@@ -471,7 +586,7 @@ def main() -> None:
         if news_view == "Collected":
             st.info(
                 "Your reading desk is empty. Select Collect beside any article "
-                "to save it for this browser session.",
+                "to save it in this browser.",
                 icon=":material/bookmark_add:",
             )
         else:
@@ -496,6 +611,12 @@ def main() -> None:
     collected_count = len(st.session_state["collected_articles"])
     st.sidebar.header("Your reading desk")
     st.sidebar.metric("Collected articles", collected_count)
+    if storage_error := st.session_state.get("reader_storage_error"):
+        st.sidebar.warning(
+            "This browser blocked permanent storage. Download your collection "
+            f"before closing the page. Technical detail: {storage_error}",
+            icon=":material/warning:",
+        )
     if collected_count:
         st.sidebar.download_button(
             "Download collection",
@@ -511,8 +632,8 @@ def main() -> None:
             on_click=clear_collection,
         )
     st.sidebar.caption(
-        "Collections and notes are private to this browser tab. "
-        "Download your collection before closing it."
+        "Collections and notes are saved automatically in this browser. "
+        "Use Download collection as a portable backup."
     )
 
     st.sidebar.header("Filters")
