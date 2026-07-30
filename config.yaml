@@ -8,6 +8,10 @@ feeds:
     url: https://www.technologyreview.com/topic/artificial-intelligence/feed
   - name: VentureBeat AI
     url: https://venturebeat.com/category/ai/feed/
+  - name: Baidu ERNIE
+    url: https://ernie.baidu.com/blog/index.xml
+  - name: QbitAI
+    url: https://www.qbitai.com/feed
 
 # The report uses the completed 24-hour window from 08:00 yesterday to
 # 08:00 today in Asia/Shanghai. Fetch extra entries so busy feeds are less
@@ -28,6 +32,38 @@ ai_keywords:
   - neural network
   - agent
   - multimodal
+  - 人工智能
+  - 大模型
+  - 机器学习
+  - 生成式 AI
+  - 智能体
+  - 多模态
+  - 推理模型
+  - 模型
+  - 机器人
+  - 算力
+  - 推理
+  - 训练
+  - 芯片
+  - 通义千问
+  - 文心
+  - 混元
+  - 豆包
+  - Kimi
+  - DeepSeek
+  - Qwen
+  - ERNIE
+  - Hunyuan
+  - Doubao
+  - Moonshot AI
+  - GLM
+  - GPT
+  - Claude
+  - Gemini
+  - AlphaFold
+  - 智谱
+  - MiniMax
+  - 盘古
 
 important_keywords:
   - launch
@@ -42,3 +78,15 @@ important_keywords:
   - safety
   - benchmark
   - partnership
+  - 发布
+  - 推出
+  - 开源
+  - 融资
+  - 收购
+  - 监管
+  - 安全
+  - 基准
+  - 合作
+  - 研究
+  - 升级
+  - 模型

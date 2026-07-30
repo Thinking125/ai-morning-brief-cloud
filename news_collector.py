@@ -23,7 +23,15 @@ def entry_date(entry: Any) -> datetime | None:
     date_tuple = entry.get("published_parsed") or entry.get("updated_parsed")
     if not date_tuple:
         return None
-    return datetime.fromtimestamp(calendar.timegm(date_tuple), tz=timezone.utc)
+    try:
+        return datetime.fromtimestamp(
+            calendar.timegm(date_tuple),
+            tz=timezone.utc,
+        )
+    except (OSError, OverflowError, ValueError):
+        # Some feeds include navigation pages with placeholder dates such as
+        # year 0001. They are not news, so treat them as undated entries.
+        return None
 
 
 def collect_news(
@@ -61,12 +69,16 @@ def collect_news(
             print(f"Warning: could not fully read {source}: {parsed_feed.bozo_exception}")
 
         for entry in parsed_feed.entries[:max_articles_per_feed]:
+            published_at = entry_date(entry)
+            if published_at is None:
+                # A daily briefing cannot place an undated item in its window.
+                continue
             summary = entry.get("summary") or entry.get("description") or ""
             articles.append(
                 {
                     "title": clean_html(entry.get("title", "Untitled article")),
                     "source": source,
-                    "date": entry_date(entry),
+                    "date": published_at,
                     "url": entry.get("link", ""),
                     "summary": clean_html(summary),
                 }
