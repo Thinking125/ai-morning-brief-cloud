@@ -1,5 +1,33 @@
 [
   {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "source": "OpenAI",
+    "date": "2026-07-29T15:00:00+00:00",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "source": "OpenAI",
+    "date": "2026-07-29T10:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+  },
+  {
+    "title": "The AI Hype Index: Unsexy AI",
+    "source": "MIT Technology Review",
+    "date": "2026-07-29T08:42:57+00:00",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,…"
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "source": "OpenAI",
+    "date": "2026-07-29T00:00:00+00:00",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+  },
+  {
     "title": "Scientific computing in the age of agentic AI",
     "source": "OpenAI",
     "date": "2026-07-28T17:00:00+00:00",
