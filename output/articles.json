@@ -1,5 +1,47 @@
 [
   {
+    "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+    "source": "QbitAI",
+    "date": "2026-08-04T08:18:45+00:00",
+    "url": "https://www.qbitai.com/2026/08/465814.html",
+    "summary": "那还说啥了梁圣，我订阅费全给你就是了呗"
+  },
+  {
+    "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+    "source": "QbitAI",
+    "date": "2026-08-04T06:47:06+00:00",
+    "url": "https://www.qbitai.com/2026/08/465785.html",
+    "summary": ""
+  },
+  {
+    "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+    "source": "QbitAI",
+    "date": "2026-08-04T03:46:38+00:00",
+    "url": "https://www.qbitai.com/2026/08/465767.html",
+    "summary": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。"
+  },
+  {
+    "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+    "source": "QbitAI",
+    "date": "2026-08-04T01:27:41+00:00",
+    "url": "https://www.qbitai.com/2026/08/465732.html",
+    "summary": "出海AI，正被“三重算力锁链\"捆死"
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "source": "OpenAI",
+    "date": "2026-08-03T22:00:00+00:00",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "source": "MIT Technology Review",
+    "date": "2026-08-03T18:43:30+00:00",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…"
+  },
+  {
     "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
     "source": "QbitAI",
     "date": "2026-08-03T11:59:32+00:00",
@@ -19,6 +61,13 @@
     "date": "2026-08-03T07:11:13+00:00",
     "url": "https://www.qbitai.com/2026/08/465223.html",
     "summary": "电工短缺已经成为我们在美国扩建数据中心的头号障碍"
+  },
+  {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "source": "OpenAI",
+    "date": "2026-08-03T07:00:00+00:00",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
   },
   {
     "title": "当品牌开始争夺AI的答案：翰智GEO入场",
@@ -75,6 +124,13 @@
     "date": "2026-08-03T02:51:33+00:00",
     "url": "https://www.qbitai.com/2026/08/464835.html",
     "summary": "面向AI Agent的可迁移、自演进记忆操作层MindMemOS"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "source": "OpenAI",
+    "date": "2026-08-03T00:00:00+00:00",
+    "url": "https://openai.com/index/circles",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
   },
   {
     "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
