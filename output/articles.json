@@ -1,5 +1,82 @@
 [
   {
+    "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+    "source": "QbitAI",
+    "date": "2026-08-05T07:05:41+00:00",
+    "url": "https://www.qbitai.com/2026/08/466847.html",
+    "summary": "10秒1080P，成本只要5毛钱"
+  },
+  {
+    "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+    "source": "QbitAI",
+    "date": "2026-08-05T06:33:40+00:00",
+    "url": "https://www.qbitai.com/2026/08/466739.html",
+    "summary": "内部默认用GPT-5.6"
+  },
+  {
+    "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+    "source": "QbitAI",
+    "date": "2026-08-05T05:53:38+00:00",
+    "url": "https://www.qbitai.com/2026/08/466553.html",
+    "summary": "CUDA又危了？"
+  },
+  {
+    "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+    "source": "QbitAI",
+    "date": "2026-08-05T04:28:31+00:00",
+    "url": "https://www.qbitai.com/2026/08/466454.html",
+    "summary": "二季度AI收入暴涨247%"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "OpenAI",
+    "date": "2026-08-04T19:00:00+00:00",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+  },
+  {
+    "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+    "source": "QbitAI",
+    "date": "2026-08-04T13:14:27+00:00",
+    "url": "https://www.qbitai.com/2026/08/466386.html",
+    "summary": "北京大学&元空AI Agent联合实验室"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "source": "Google AI",
+    "date": "2026-08-04T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "summary": "July AI recap header"
+  },
+  {
+    "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+    "source": "QbitAI",
+    "date": "2026-08-04T09:22:46+00:00",
+    "url": "https://www.qbitai.com/2026/08/465792.html",
+    "summary": "第二天，就有一篇人类论文回应：AI提出的反例不成立"
+  },
+  {
+    "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+    "source": "QbitAI",
+    "date": "2026-08-04T09:18:08+00:00",
+    "url": "https://www.qbitai.com/2026/08/466262.html",
+    "summary": "Skill和Agent也能被封装调用"
+  },
+  {
+    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+    "source": "QbitAI",
+    "date": "2026-08-04T09:13:57+00:00",
+    "url": "https://www.qbitai.com/2026/08/466032.html",
+    "summary": "OpenAI+田园牧歌，画风属实太违和"
+  },
+  {
+    "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+    "source": "QbitAI",
+    "date": "2026-08-04T08:58:21+00:00",
+    "url": "https://www.qbitai.com/2026/08/465973.html",
+    "summary": "元宝已接入"
+  },
+  {
     "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
     "source": "QbitAI",
     "date": "2026-08-04T08:18:45+00:00",
@@ -28,6 +105,13 @@
     "summary": "出海AI，正被“三重算力锁链\"捆死"
   },
   {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "source": "OpenAI",
+    "date": "2026-08-04T00:00:00+00:00",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+  },
+  {
     "title": "Apple is getting this wrong",
     "source": "OpenAI",
     "date": "2026-08-03T22:00:00+00:00",
@@ -40,6 +124,13 @@
     "date": "2026-08-03T18:43:30+00:00",
     "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…"
+  },
+  {
+    "title": "Inside our 353,000-person vibe coding course",
+    "source": "Google AI",
+    "date": "2026-08-03T15:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube"
   },
   {
     "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
