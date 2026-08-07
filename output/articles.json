@@ -1,5 +1,82 @@
 [
   {
+    "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+    "source": "QbitAI",
+    "date": "2026-08-07T03:23:54+00:00",
+    "url": "https://www.qbitai.com/2026/08/467877.html",
+    "summary": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测"
+  },
+  {
+    "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+    "source": "QbitAI",
+    "date": "2026-08-07T03:23:01+00:00",
+    "url": "https://www.qbitai.com/2026/08/467879.html",
+    "summary": "Chat优化版"
+  },
+  {
+    "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+    "source": "QbitAI",
+    "date": "2026-08-07T03:08:51+00:00",
+    "url": "https://www.qbitai.com/2026/08/467871.html",
+    "summary": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线"
+  },
+  {
+    "title": "AI SSD：大模型推理的存储范式转移",
+    "source": "QbitAI",
+    "date": "2026-08-07T02:56:46+00:00",
+    "url": "https://www.qbitai.com/2026/08/467840.html",
+    "summary": "算力、网络、内存与存储开始围绕每个Token协同"
+  },
+  {
+    "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+    "source": "QbitAI",
+    "date": "2026-08-07T01:39:16+00:00",
+    "url": "https://www.qbitai.com/2026/08/467834.html",
+    "summary": ""
+  },
+  {
+    "title": "智元下架了首席科学家罗剑岚",
+    "source": "QbitAI",
+    "date": "2026-08-07T01:25:40+00:00",
+    "url": "https://www.qbitai.com/2026/08/467730.html",
+    "summary": "智元机器人高管生变！"
+  },
+  {
+    "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+    "source": "QbitAI",
+    "date": "2026-08-07T01:15:42+00:00",
+    "url": "https://www.qbitai.com/2026/08/467663.html",
+    "summary": "指环王成为大模型新基准"
+  },
+  {
+    "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+    "source": "QbitAI",
+    "date": "2026-08-07T00:55:47+00:00",
+    "url": "https://www.qbitai.com/2026/08/467486.html",
+    "summary": "采集、仿真、训练和评测，闭环了"
+  },
+  {
+    "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+    "source": "QbitAI",
+    "date": "2026-08-07T00:25:07+00:00",
+    "url": "https://www.qbitai.com/2026/08/467487.html",
+    "summary": "此后模型、算力、数据中心都在合作范围内"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "source": "OpenAI",
+    "date": "2026-08-06T10:00:00+00:00",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+  },
+  {
+    "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+    "source": "QbitAI",
+    "date": "2026-08-06T09:58:21+00:00",
+    "url": "https://www.qbitai.com/2026/08/467478.html",
+    "summary": "正式公开了安卓液态玻璃设计的完整技术底座"
+  },
+  {
     "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
     "source": "QbitAI",
     "date": "2026-08-06T08:02:45+00:00",
@@ -21,6 +98,13 @@
     "summary": "没想到还有LeCun的事儿"
   },
   {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "source": "OpenAI",
+    "date": "2026-08-06T06:00:00+00:00",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+  },
+  {
     "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
     "source": "QbitAI",
     "date": "2026-08-06T05:36:37+00:00",
@@ -33,6 +117,13 @@
     "date": "2026-08-06T05:29:40+00:00",
     "url": "https://www.qbitai.com/2026/08/467262.html",
     "summary": ""
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "source": "OpenAI",
+    "date": "2026-08-06T00:00:00+00:00",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
   },
   {
     "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
