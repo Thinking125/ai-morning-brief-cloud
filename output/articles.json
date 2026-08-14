@@ -1,5 +1,117 @@
 [
   {
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "source": "Google AI",
+    "date": "2026-08-13T16:45:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "summary": "The video shows Sheets canvas in action."
+  },
+  {
+    "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+    "source": "QbitAI",
+    "date": "2026-08-13T16:03:19+00:00",
+    "url": "https://www.qbitai.com/2026/08/472208.html",
+    "summary": "欢迎，为后人种点树"
+  },
+  {
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "source": "MIT Technology Review",
+    "date": "2026-08-13T13:41:10+00:00",
+    "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…"
+  },
+  {
+    "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+    "source": "QbitAI",
+    "date": "2026-08-13T12:34:42+00:00",
+    "url": "https://www.qbitai.com/2026/08/472059.html",
+    "summary": "首颗AI芯片已进入量产"
+  },
+  {
+    "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+    "source": "QbitAI",
+    "date": "2026-08-13T12:04:29+00:00",
+    "url": "https://www.qbitai.com/2026/08/472067.html",
+    "summary": "马斯克版Workbuddy也来了"
+  },
+  {
+    "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+    "source": "QbitAI",
+    "date": "2026-08-13T11:53:02+00:00",
+    "url": "https://www.qbitai.com/2026/08/472060.html",
+    "summary": "重新定义物理AI数据基础设施"
+  },
+  {
+    "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+    "source": "QbitAI",
+    "date": "2026-08-13T11:29:04+00:00",
+    "url": "https://www.qbitai.com/2026/08/472016.html",
+    "summary": "好数学家不挑AI模型"
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "source": "OpenAI",
+    "date": "2026-08-13T11:00:00+00:00",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+  },
+  {
+    "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+    "source": "QbitAI",
+    "date": "2026-08-13T10:20:32+00:00",
+    "url": "https://www.qbitai.com/2026/08/471893.html",
+    "summary": "让一部分人先飞起来"
+  },
+  {
+    "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+    "source": "QbitAI",
+    "date": "2026-08-13T10:01:47+00:00",
+    "url": "https://www.qbitai.com/2026/08/471884.html",
+    "summary": ""
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "source": "OpenAI",
+    "date": "2026-08-13T10:00:00+00:00",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "source": "OpenAI",
+    "date": "2026-08-13T09:00:00+00:00",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+  },
+  {
+    "title": "How kids feel about AI, in their own words",
+    "source": "MIT Technology Review",
+    "date": "2026-08-13T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…"
+  },
+  {
+    "title": "刚刚！Ilya首个模型曝光了",
+    "source": "QbitAI",
+    "date": "2026-08-13T08:36:53+00:00",
+    "url": "https://www.qbitai.com/2026/08/471701.html",
+    "summary": "SSI第一剑，劈向持续学习"
+  },
+  {
+    "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+    "source": "QbitAI",
+    "date": "2026-08-13T06:33:52+00:00",
+    "url": "https://www.qbitai.com/2026/08/471697.html",
+    "summary": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高"
+  },
+  {
+    "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+    "source": "QbitAI",
+    "date": "2026-08-13T05:10:50+00:00",
+    "url": "https://www.qbitai.com/2026/08/471668.html",
+    "summary": ""
+  },
+  {
     "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
     "source": "QbitAI",
     "date": "2026-08-13T03:54:01+00:00",
