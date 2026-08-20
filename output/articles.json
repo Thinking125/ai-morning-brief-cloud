@@ -1,10 +1,115 @@
 [
   {
+    "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+    "source": "QbitAI",
+    "date": "2026-08-20T01:21:07+00:00",
+    "url": "https://www.qbitai.com/2026/08/476075.html",
+    "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放"
+  },
+  {
+    "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+    "source": "QbitAI",
+    "date": "2026-08-20T01:06:45+00:00",
+    "url": "https://www.qbitai.com/2026/08/476070.html",
+    "summary": "成本也正成为Agent商业化需要考虑的重要因素"
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "source": "OpenAI",
+    "date": "2026-08-19T19:00:00+00:00",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  {
+    "title": "5 new ways to level up your learning with Search",
+    "source": "Google AI",
+    "date": "2026-08-19T19:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "source": "VentureBeat AI",
+    "date": "2026-08-19T14:18:12+00:00",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI. The enterprise AI stack is being rewritten in real time, and the decision-makers I talk with are starved for objective, defendable data. Rob Strechay has the mix of technical rigor and operating experience needed to dissect the architecture behind the next phase of enterprise AI deployment. The questions enterprise technology leaders are asking have changed. As organizations move past experimentation with generative AI toward production deployment, they want to know how to orchestrate multi-vendor environments, where the security gaps in their agentic pipelines sit, and how to fix the utilization problems draining their infrastructure budgets. Answering those questions requires more depth than news coverage alone provides, and that is the gap this research offering is built to fill. An analyst who has sat on every side of the table Strechay brings nearly three decades of experience as a practitioner, product executive, and industry analyst. Before becoming an analyst, he was an executive at numerous startups, including Zerto; he joined Amazon Web Services to help build a new analytics service; and he held executive roles across enterprise infrastructure. He later served as a senior analyst at Enterprise Strategy Group and most recently as managing director and principal analyst at theCUBE Research and SiliconANGLE, where he hosted executive interviews and analyzed the evolution of cloud, data, and AI infrastructure. Strechay will initially focus his coverage on cloud infrastructure, advanced data infrastructure, platform engineering and DevOps orchestration and observability, and the intersection points where AI and enterprise security collide. Already at work: GPU utilization and the VB Pulse surveys Strechay has already been contributing to VentureBeat's research . In May he published an analysis of enterprise GPU utilization , examining the compute waste sitting inside enterprise AI infrastructure, and he provided a substantive review of our AI Infrastructure & Compute survey before it went into the field. His infrastructure-level focus complements the research engine VentureBeat has built around its monthly VB Pulse surveys, which track five areas of enterprise AI adoption: agentic orchestration, agent reliability and evals, agentic security and identity, AI infrastructure and compute, and context layers, including retrieval-augmented generation (RAG). Our June report on agentic orchestration , drawn from a survey of 145 enterprises, found that two-thirds of those enterprises had hedged their AI model strategy rather than committing to a single provider — a posture whose value the June outage of Anthropic's Claude models made plain. VB In Conversation: The first vehicle A core vehicle for this expanded research footprint will be a deepening of VentureBeat's existing VB In Conversation video interview series, which Strechay will host. Rather than high-level industry overviews, the series will bring architectural blueprints, actual deployment barriers, and back-end infrastructure realities to light through in-depth technical interviews with the architects and product leaders behind leading enterprise AI systems — an unvarnished look at which tools perform under production-grade pressure. \"VentureBeat has built an audience of enterprise builders and technology buyers that any analyst would want to serve,\" Strechay said. \"My goal is to use deep empirical metrics and VentureBeat's proprietary tracking data to help enterprise buyers and the people building for them make sound platform and infrastructure decisions during the most disruptive transition enterprise technology has seen.\" The expanded VB In Conversation series will appear on VentureBeat and on VentureBeat's YouTube channel , alongside Rob's written analysis on the site. Enterprise practitioners who want to take part in our monthly VB Pulse surveys, or arrange an analyst briefing with Rob, can reach the research team here ."
+  },
+  {
+    "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+    "source": "QbitAI",
+    "date": "2026-08-19T10:54:07+00:00",
+    "url": "https://www.qbitai.com/2026/08/475931.html",
+    "summary": ""
+  },
+  {
+    "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+    "source": "QbitAI",
+    "date": "2026-08-19T10:12:09+00:00",
+    "url": "https://www.qbitai.com/2026/08/475907.html",
+    "summary": "超维动力KAI全栈具身智能硬核登场"
+  },
+  {
+    "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+    "source": "QbitAI",
+    "date": "2026-08-19T08:34:36+00:00",
+    "url": "https://www.qbitai.com/2026/08/475901.html",
+    "summary": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。"
+  },
+  {
+    "title": "MiniMax核心工程负责人阿岛离职",
+    "source": "QbitAI",
+    "date": "2026-08-19T08:23:05+00:00",
+    "url": "https://www.qbitai.com/2026/08/475869.html",
+    "summary": "从技术研发到开发者沟通，长期活跃在开发者一线"
+  },
+  {
+    "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+    "source": "QbitAI",
+    "date": "2026-08-19T07:42:27+00:00",
+    "url": "https://www.qbitai.com/2026/08/475477.html",
+    "summary": "构建全栈物理AI基础设施"
+  },
+  {
+    "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+    "source": "QbitAI",
+    "date": "2026-08-19T07:40:36+00:00",
+    "url": "https://www.qbitai.com/2026/08/475764.html",
+    "summary": "冠军姿势长这样"
+  },
+  {
+    "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+    "source": "QbitAI",
+    "date": "2026-08-19T07:22:19+00:00",
+    "url": "https://www.qbitai.com/2026/08/475476.html",
+    "summary": "AI终于能听严格执行运镜需求"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI",
+    "date": "2026-08-19T07:00:00+00:00",
+    "url": "https://openai.com/index/replit",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+  },
+  {
+    "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
+    "source": "QbitAI",
+    "date": "2026-08-19T06:35:42+00:00",
+    "url": "https://www.qbitai.com/2026/08/475460.html",
+    "summary": "“做物理，要敢于提出蠢问题”"
+  },
+  {
     "title": "郭富城换车，30万级顶配华为全家桶",
     "source": "QbitAI",
     "date": "2026-08-19T00:59:23+00:00",
     "url": "https://www.qbitai.com/2026/08/475009.html",
     "summary": "5.3米六座家用SUV"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "source": "OpenAI",
+    "date": "2026-08-18T22:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
   },
   {
     "title": "Strengthening democratic oversight in national security",
