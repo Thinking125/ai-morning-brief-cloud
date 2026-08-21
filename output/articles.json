@@ -1,5 +1,26 @@
 [
   {
+    "title": "Debates over AI consciousness are a trap",
+    "source": "MIT Technology Review",
+    "date": "2026-08-20T15:42:39+00:00",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…"
+  },
+  {
+    "title": "Unlocking hidden revenue streams with market models",
+    "source": "MIT Technology Review",
+    "date": "2026-08-20T09:47:22+00:00",
+    "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…"
+  },
+  {
+    "title": "Introducing AI Futures",
+    "source": "OpenAI",
+    "date": "2026-08-20T07:00:00+00:00",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+  },
+  {
     "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
     "source": "QbitAI",
     "date": "2026-08-20T01:21:07+00:00",
@@ -12,6 +33,13 @@
     "date": "2026-08-20T01:06:45+00:00",
     "url": "https://www.qbitai.com/2026/08/476070.html",
     "summary": "成本也正成为Agent商业化需要考虑的重要因素"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "OpenAI",
+    "date": "2026-08-20T00:00:00+00:00",
+    "url": "https://openai.com/index/stampli",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
   },
   {
     "title": "Offering Zero Data Retention for frontier models",
