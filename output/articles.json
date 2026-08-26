@@ -1,10 +1,122 @@
 [
   {
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "source": "Google AI",
+    "date": "2026-08-25T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background"
+  },
+  {
+    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+    "source": "QbitAI",
+    "date": "2026-08-25T09:31:16+00:00",
+    "url": "https://www.qbitai.com/2026/08/479314.html",
+    "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。"
+  },
+  {
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "source": "MIT Technology Review",
+    "date": "2026-08-25T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "source": "OpenAI",
+    "date": "2026-08-25T07:05:00+00:00",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "source": "OpenAI",
+    "date": "2026-08-25T07:00:00+00:00",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+  },
+  {
+    "title": "开源国产8B模型，比肩闭源Image 2了！",
+    "source": "QbitAI",
+    "date": "2026-08-25T06:53:26+00:00",
+    "url": "https://www.qbitai.com/2026/08/479192.html",
+    "summary": "SenseNova U1.5 Lite"
+  },
+  {
+    "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+    "source": "QbitAI",
+    "date": "2026-08-25T06:39:51+00:00",
+    "url": "https://www.qbitai.com/2026/08/479132.html",
+    "summary": "字节、汇川等已入股未来不远机器人最新一轮融资"
+  },
+  {
+    "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+    "source": "QbitAI",
+    "date": "2026-08-25T05:48:05+00:00",
+    "url": "https://www.qbitai.com/2026/08/479096.html",
+    "summary": "AI科研能力从工具级转向系统级"
+  },
+  {
+    "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+    "source": "QbitAI",
+    "date": "2026-08-25T05:20:50+00:00",
+    "url": "https://www.qbitai.com/2026/08/478996.html",
+    "summary": "下一代Agent天然会走向云端和更大规模的计算资源"
+  },
+  {
+    "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+    "source": "QbitAI",
+    "date": "2026-08-25T05:15:23+00:00",
+    "url": "https://www.qbitai.com/2026/08/478912.html",
+    "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构"
+  },
+  {
+    "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+    "source": "QbitAI",
+    "date": "2026-08-25T04:08:21+00:00",
+    "url": "https://www.qbitai.com/2026/08/478839.html",
+    "summary": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。"
+  },
+  {
+    "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+    "source": "QbitAI",
+    "date": "2026-08-25T04:06:18+00:00",
+    "url": "https://www.qbitai.com/2026/08/478479.html",
+    "summary": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！"
+  },
+  {
+    "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+    "source": "QbitAI",
+    "date": "2026-08-25T02:22:01+00:00",
+    "url": "https://www.qbitai.com/2026/08/478791.html",
+    "summary": "机器人大脑新SOTA"
+  },
+  {
+    "title": "VC开始靠AI预测未来了",
+    "source": "QbitAI",
+    "date": "2026-08-25T02:16:43+00:00",
+    "url": "https://www.qbitai.com/2026/08/478774.html",
+    "summary": "FutureX榜单前十占了仨"
+  },
+  {
     "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
     "source": "QbitAI",
     "date": "2026-08-25T00:35:54+00:00",
     "url": "https://www.qbitai.com/2026/08/478675.html",
     "summary": "虽然明确机器人创业，但依然在职蔚来"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "source": "OpenAI",
+    "date": "2026-08-25T00:00:00+00:00",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+  },
+  {
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI",
+    "date": "2026-08-25T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
   },
   {
     "title": "How to encourage smarter AI use in the classroom",
