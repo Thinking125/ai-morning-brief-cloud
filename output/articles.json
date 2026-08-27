@@ -1,5 +1,138 @@
 [
   {
+    "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+    "source": "QbitAI",
+    "date": "2026-08-27T05:43:00+00:00",
+    "url": "https://www.qbitai.com/2026/08/480079.html",
+    "summary": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。"
+  },
+  {
+    "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "source": "QbitAI",
+    "date": "2026-08-27T02:46:35+00:00",
+    "url": "https://www.qbitai.com/2026/08/480005.html",
+    "summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。"
+  },
+  {
+    "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+    "source": "QbitAI",
+    "date": "2026-08-27T01:45:08+00:00",
+    "url": "https://www.qbitai.com/2026/08/480001.html",
+    "summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "source": "MIT Technology Review",
+    "date": "2026-08-26T19:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…"
+  },
+  {
+    "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+    "source": "QbitAI",
+    "date": "2026-08-26T16:48:12+00:00",
+    "url": "https://www.qbitai.com/2026/08/479919.html",
+    "summary": "GLM-5.3 Flash"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "source": "VentureBeat AI",
+    "date": "2026-08-26T14:30:00+00:00",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications. \"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"As a result, while many enterprises have adopted digital tools, very few have platforms that are truly integrated, scaled, and capable of seamless orchestration.\" That gap creates a heavy cognitive load for human agents who must piece together context across disjointed tools to understand what an AI system has already told a customer. The challenge is not simply access to data, but the absence of a shared enterprise context that connects customer identities, interactions, transactions, policies, journeys, and operational systems into a common understanding. Traditional CX architecture was built for linear, human-driven routing, not for managing real-time data flows between autonomous AI systems, data lakes, and human workers. \"Today's operational complexity is no longer about adding more intelligence,\" he adds. \"It is about coordinating the existing intelligence across the enterprise, so the enterprise customer never feels the friction of those internal silos. That requires a shared context layer that allows AI systems, applications, and people to operate from the same understanding of the customer and the business.\" Why orchestration is replacing automation as the top CX priority As that coordination problem grows, Anand says the strategic priority inside enterprises is shifting from automation to orchestration. \"Automation solves individual tasks, whereas orchestration connects them into end-to-end outcomes,\" Anand says. \"The next evolution is context-aware orchestration, where AI agents, applications, and human workers operate using a shared understanding of customers, processes, and business intent rather than isolated system records.\" As organizations accumulate more bots, agents, and AI tools, managing them grows exponentially more complex. Anand says the competitive advantage now sits less in deploying automation and more in how intelligently systems hand off work, collaborate, and escalate. The trap of bolting AI onto legacy systems Companies that simply place a voice AI agent in front of an existing system are repeating the same old mistake. Instead of improving the experience, they end up recreating the deterministic phone menus AI was supposed to replace. The real benefit of AI is the scale, speed, and orchestration it provides. Anand points to a wave of consolidation across the industry, as established contact center providers acquire AI-native firms to close capability gaps and strengthen their customer experience offerings. The broader industry shift reflects a growing recognition that enterprises need more than channels and automation; they need an intelligence layer capable of orchestrating AI, people, data, and workflows across the business. The goal across industries is to make AI the connective layer between customers, employees, and enterprise systems. To achieve that, organizations increasingly need a common enterprise ontology: a shared business vocabulary that aligns customer data, products, policies, SOPs, transactions, and workflows across otherwise disconnected platforms. Tata Communications’ solution is the Interaction Fabric, an orchestration layer that unifies contact center, messaging, collaboration, AI, and customer data while coordinating AI agents, channels, and enterprise systems in real time. Underpinning that orchestration is a context-driven architecture that continuously connects identities, conversations, transactions, and operational data so interactions retain continuity across channels and touchpoints. That means AI and agents can move across voice, WhatsApp, chat, email, and CRM workflows without losing customer context. Identity, intent, and AI-driven insight flow continuously across channels instead of remaining trapped in disconnected applications. The next phase of orchestration is not simply coordinating tasks across systems, but coordinating them through a shared understanding of the enterprise. Context graphs, built on enterprise ontologies, create that common understanding by connecting customers, interactions, products, policies, decisions, and outcomes across organizational silos. This allows AI agents and human workers to operate from the same source of context, driving more accurate decisions, seamless handoffs, and consistent customer experiences. But synchronizing customer intent, conversation history, enterprise data, and AI decision-making across channels only works without lag. Legacy networks not designed for modern data frequency create what Anand calls data gravity, producing latency and inconsistent journeys as users switch channels. \"The underlying network needs to be engineered to be as agile as the AI systems running on top of it,\" he explains. \"Interactions stay synchronous and technology itself becomes invisible, leaving only an experience that feels effortless.\" Making AI a better partner for human agents Effective shared visibility between human agents and AI systems starts with the agent experience rather than any single technology. The most effective implementations allow both the AI and human agent to operate from the same contextual understanding of the customer, ensuring that information gathered in one interaction can inform the next regardless of channel or system. Automated call summaries, real-time sentiment analysis, and AI-powered assistance provide agents with instant, actionable insights and suggested next steps directly within their workflow. That allows AI to handle routine, high-volume tasks such as password resets, delivery tracking, and account updates, while human agents focus on interactions requiring judgment and empathy. \"If a customer is facing a sudden crisis like a fraudulent transaction, the AI can instantly block the card, but it cannot provide the emotional comfort and delicate communication needed in that moment of panic,\" Anand says. \"The answer to the dilemma is intelligent orchestration, rather than a choice between systems.\" In practice, AI handles the immediate technical transaction, while real-time sentiment analysis recognizes the customer's distress and routes the call to a human expert. The objective is to orchestrate AI and human agents together so efficiency never comes at the cost of brand trust and loyalty. Building a unified CX architecture Moving from fragmented experimentation to coordinated orchestration requires both technical and organizational change, Anand says, beginning with consolidating data and fragmented point solutions onto a unified, cloud-first platform. \"IT and CX teams need to work more collaboratively,\" he explains, describing that alignment as the second necessary shift, this time at the organizational level. At the architecture level, Anand says communication APIs need to be embedded into the enterprise's core so every function operates from the same customer context instead of maintaining its own siloed data. Increasingly, this means moving beyond integration alone toward a contextual architecture where a shared ontology and context graph provide a common understanding across CX, operations, sales, service, and AI systems. The deeper organizational change, he says, is a mindset shift from reactive support toward proactive, predictive, and personalized engagement, which he calls the three Ps. How AI agents will shape the future of CX Customer engagement over the next several years will be defined by real-time intelligence, increasing autonomy, and seamless orchestration across touchpoints, and persistent enterprise context that follows customers, employees, and AI agents wherever interactions occur. Rather than analyzing interactions after the fact, enterprises will increasingly shape conversations in real time. \"The future of CX will be defined by simplification, aligning data, infrastructure, and operating models around clear customer outcomes rather than adding more models and tools,\" Anand says. \"The rise of AI-powered agents and agent-to-agent interactions is a defining trend, with AI systems moving beyond assisting humans to independently managing and resolving interactions, creating a largely invisible layer of engagement that improves speed and efficiency.\" Human agents will increasingly work alongside AI, supported by real-time conversational intelligence and next-best-action recommendations to deliver what Anand calls Total Experience: a unified model that brings together customer, employee, and AI-driven experiences. Tata Communications is building toward that future through its Voice AI, AI Workers, and Total Experience Hub solutions. \"Ultimately, customer engagement will evolve from being reactive to predictive and increasingly generative,\" Anand says. \"Enterprises won't just be responding to needs, but actively shaping and improving customer journeys in real time.\" Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com ."
+  },
+  {
+    "title": "AI视频应用井喷，美图打开新的增长空间",
+    "source": "QbitAI",
+    "date": "2026-08-26T10:18:10+00:00",
+    "url": "https://www.qbitai.com/2026/08/479895.html",
+    "summary": "从图像到视频，美图找到了一门更赚钱的生意"
+  },
+  {
+    "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+    "source": "QbitAI",
+    "date": "2026-08-26T10:17:15+00:00",
+    "url": "https://www.qbitai.com/2026/08/479811.html",
+    "summary": "AI内容创作者增长187%，相关节目数量增长239%"
+  },
+  {
+    "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+    "source": "QbitAI",
+    "date": "2026-08-26T10:07:09+00:00",
+    "url": "https://www.qbitai.com/2026/08/479834.html",
+    "summary": "具身智能迈向GPT时刻"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI",
+    "date": "2026-08-26T10:00:00+00:00",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI",
+    "date": "2026-08-26T10:00:00+00:00",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+    "source": "QbitAI",
+    "date": "2026-08-26T09:17:08+00:00",
+    "url": "https://www.qbitai.com/2026/08/479808.html",
+    "summary": "长乐机场综保区智算中心全栈算电协同服务"
+  },
+  {
+    "title": "Raised on AI",
+    "source": "MIT Technology Review",
+    "date": "2026-08-26T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast-forward a couple…"
+  },
+  {
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "source": "MIT Technology Review",
+    "date": "2026-08-26T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…"
+  },
+  {
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "source": "MIT Technology Review",
+    "date": "2026-08-26T07:01:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…"
+  },
+  {
+    "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+    "source": "QbitAI",
+    "date": "2026-08-26T05:56:25+00:00",
+    "url": "https://www.qbitai.com/2026/08/479670.html",
+    "summary": "Agnes Video 2.5 Flash"
+  },
+  {
+    "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+    "source": "QbitAI",
+    "date": "2026-08-26T05:52:06+00:00",
+    "url": "https://www.qbitai.com/2026/08/479634.html",
+    "summary": ""
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "OpenAI",
+    "date": "2026-08-26T00:00:00+00:00",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "source": "OpenAI",
+    "date": "2026-08-26T00:00:00+00:00",
+    "url": "https://openai.com/index/loveholidays",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+  },
+  {
     "title": "5 ways to upgrade your home decor with Google Search",
     "source": "Google AI",
     "date": "2026-08-25T16:00:00+00:00",
@@ -399,11 +532,18 @@
     "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…"
   },
   {
-    "title": "Introducing AI Futures",
+    "title": "Introducing Intelligence Age",
     "source": "OpenAI",
     "date": "2026-08-20T07:00:00+00:00",
     "url": "https://openai.com/index/introducing-ai-futures",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+  },
+  {
+    "title": "Introducing Intelligence Age",
+    "source": "OpenAI",
+    "date": "2026-08-20T07:00:00+00:00",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
     "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
