@@ -1,10 +1,52 @@
 [
   {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "source": "MIT Technology Review",
+    "date": "2026-08-31T18:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…"
+  },
+  {
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "source": "QbitAI",
+    "date": "2026-08-31T13:20:29+00:00",
+    "url": "https://www.qbitai.com/2026/08/481928.html",
+    "summary": "划重点：这次不是你挨家敲门，是VC排队来看你。"
+  },
+  {
+    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+    "source": "QbitAI",
+    "date": "2026-08-31T07:53:12+00:00",
+    "url": "https://www.qbitai.com/2026/08/481923.html",
+    "summary": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务"
+  },
+  {
+    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+    "source": "QbitAI",
+    "date": "2026-08-31T07:34:02+00:00",
+    "url": "https://www.qbitai.com/2026/08/481919.html",
+    "summary": ""
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "source": "OpenAI",
+    "date": "2026-08-31T07:00:00+00:00",
+    "url": "https://openai.com/index/polimill",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+  },
+  {
     "title": "「GPT-6」灰测demo刷屏！周四发布在即",
     "source": "QbitAI",
     "date": "2026-08-31T04:47:26+00:00",
     "url": "https://www.qbitai.com/2026/08/481893.html",
     "summary": "核弹爆炸"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "source": "OpenAI",
+    "date": "2026-08-31T04:00:00+00:00",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
   },
   {
     "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
