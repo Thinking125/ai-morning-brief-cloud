@@ -1,5 +1,117 @@
 [
   {
+    "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+    "source": "QbitAI",
+    "date": "2026-09-02T02:48:06+00:00",
+    "url": "https://www.qbitai.com/2026/09/482967.html",
+    "summary": "AI客服日扛1.5万通电话"
+  },
+  {
+    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+    "source": "QbitAI",
+    "date": "2026-09-02T02:18:12+00:00",
+    "url": "https://www.qbitai.com/2026/09/482652.html",
+    "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
+  },
+  {
+    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+    "source": "QbitAI",
+    "date": "2026-09-02T02:06:08+00:00",
+    "url": "https://www.qbitai.com/2026/09/482855.html",
+    "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
+  },
+  {
+    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "source": "QbitAI",
+    "date": "2026-09-02T01:44:24+00:00",
+    "url": "https://www.qbitai.com/2026/09/482699.html",
+    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
+  },
+  {
+    "title": "李飞飞发布：全球首个多模态世界模型",
+    "source": "QbitAI",
+    "date": "2026-09-02T01:07:13+00:00",
+    "url": "https://www.qbitai.com/2026/09/482586.html",
+    "summary": "一张图补全3D世界，还能给机器人造训练场"
+  },
+  {
+    "title": "The latest AI news we announced in August 2026",
+    "source": "Google AI",
+    "date": "2026-09-01T20:45:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "source": "OpenAI",
+    "date": "2026-09-01T17:00:00+00:00",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+  },
+  {
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "source": "Google AI",
+    "date": "2026-09-01T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "source": "OpenAI",
+    "date": "2026-09-01T13:00:00+00:00",
+    "url": "https://openai.com/index/path-to-astra",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+  },
+  {
+    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+    "source": "QbitAI",
+    "date": "2026-09-01T12:02:39+00:00",
+    "url": "https://www.qbitai.com/2026/09/482512.html",
+    "summary": ""
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-09-01T12:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+  },
+  {
+    "title": "GitHub最热架构图Agent，开发者故事看哭了",
+    "source": "QbitAI",
+    "date": "2026-09-01T08:26:54+00:00",
+    "url": "https://www.qbitai.com/2026/09/482469.html",
+    "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
+  },
+  {
+    "title": "急急急用电！马斯克开造燃气轮机叶片",
+    "source": "QbitAI",
+    "date": "2026-09-01T08:24:12+00:00",
+    "url": "https://www.qbitai.com/2026/09/482451.html",
+    "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
+  },
+  {
+    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "source": "QbitAI",
+    "date": "2026-09-01T08:15:40+00:00",
+    "url": "https://www.qbitai.com/2026/09/482406.html",
+    "summary": "主打一个明升暗降，理直气壮"
+  },
+  {
+    "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+    "source": "QbitAI",
+    "date": "2026-09-01T05:12:30+00:00",
+    "url": "https://www.qbitai.com/2026/09/482337.html",
+    "summary": "参数冻结，能力暴涨"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-09-01T01:00:00+00:00",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+  },
+  {
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "source": "MIT Technology Review",
     "date": "2026-08-31T18:00:00+00:00",
