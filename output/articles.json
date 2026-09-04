@@ -1,5 +1,75 @@
 [
   {
+    "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+    "source": "QbitAI",
+    "date": "2026-09-04T01:40:42+00:00",
+    "url": "https://www.qbitai.com/2026/09/483598.html",
+    "summary": "吃下90%市场"
+  },
+  {
+    "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+    "source": "QbitAI",
+    "date": "2026-09-03T21:57:08+00:00",
+    "url": "https://www.qbitai.com/2026/09/483948.html",
+    "summary": "改进GPT Image 2的噪点问题"
+  },
+  {
+    "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+    "source": "QbitAI",
+    "date": "2026-09-03T21:50:07+00:00",
+    "url": "https://www.qbitai.com/2026/09/483898.html",
+    "summary": "全球最强C"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI",
+    "date": "2026-09-03T13:15:00+00:00",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-03T12:00:00+00:00",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-03T12:00:00+00:00",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+  },
+  {
+    "title": "“没有Token的CS学生，应立即退学”",
+    "source": "QbitAI",
+    "date": "2026-09-03T11:32:08+00:00",
+    "url": "https://www.qbitai.com/2026/09/483839.html",
+    "summary": "禁止古法编程、Token自费"
+  },
+  {
+    "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+    "source": "QbitAI",
+    "date": "2026-09-03T11:25:29+00:00",
+    "url": "https://www.qbitai.com/2026/09/483786.html",
+    "summary": "眼镜、耳机、麦克风都来了"
+  },
+  {
+    "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+    "source": "QbitAI",
+    "date": "2026-09-03T10:18:36+00:00",
+    "url": "https://www.qbitai.com/2026/09/483189.html",
+    "summary": "单图直出场景，顶会最佳论文落地"
+  },
+  {
+    "title": "陈大年复出，入局大模型",
+    "source": "QbitAI",
+    "date": "2026-09-03T10:13:24+00:00",
+    "url": "https://www.qbitai.com/2026/09/483600.html",
+    "summary": "首秀逼近DeepSeek万亿旗舰"
+  },
+  {
     "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
     "source": "QbitAI",
     "date": "2026-09-03T03:16:43+00:00",
@@ -26,6 +96,13 @@
     "date": "2026-09-03T00:51:16+00:00",
     "url": "https://www.qbitai.com/2026/09/483351.html",
     "summary": "遥操，可能真的危险了"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-03T00:00:00+00:00",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
   },
   {
     "title": "Proactive cyber defense for governments and enterprises",
