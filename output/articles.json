@@ -1,5 +1,82 @@
 [
   {
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "source": "QbitAI",
+    "date": "2026-09-05T01:17:56+00:00",
+    "url": "https://www.qbitai.com/2026/09/484551.html",
+    "summary": "最后靠Harness救回来"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "source": "MIT Technology Review",
+    "date": "2026-09-04T18:39:19+00:00",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "source": "MIT Technology Review",
+    "date": "2026-09-04T09:25:19+00:00",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…"
+  },
+  {
+    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+    "source": "QbitAI",
+    "date": "2026-09-04T09:23:24+00:00",
+    "url": "https://www.qbitai.com/2026/09/484547.html",
+    "summary": "国产卡跑出高品质 AI Token 生产级性能"
+  },
+  {
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "source": "QbitAI",
+    "date": "2026-09-04T09:19:29+00:00",
+    "url": "https://www.qbitai.com/2026/09/484437.html",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+  },
+  {
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "source": "QbitAI",
+    "date": "2026-09-04T08:57:14+00:00",
+    "url": "https://www.qbitai.com/2026/09/484293.html",
+    "summary": "不训练模型、不调参数"
+  },
+  {
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "source": "QbitAI",
+    "date": "2026-09-04T07:09:43+00:00",
+    "url": "https://www.qbitai.com/2026/09/484203.html",
+    "summary": "5000支队伍同台做题，写尽行业四年变化"
+  },
+  {
+    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+    "source": "QbitAI",
+    "date": "2026-09-04T06:54:12+00:00",
+    "url": "https://www.qbitai.com/2026/09/484163.html",
+    "summary": "智能不只是模式识别，更是对世界的建模"
+  },
+  {
+    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+    "source": "QbitAI",
+    "date": "2026-09-04T05:53:09+00:00",
+    "url": "https://www.qbitai.com/2026/09/484159.html",
+    "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。"
+  },
+  {
+    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+    "source": "QbitAI",
+    "date": "2026-09-04T05:48:53+00:00",
+    "url": "https://www.qbitai.com/2026/09/484155.html",
+    "summary": ""
+  },
+  {
+    "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+    "source": "QbitAI",
+    "date": "2026-09-04T04:03:04+00:00",
+    "url": "https://www.qbitai.com/2026/09/483984.html",
+    "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。"
+  },
+  {
     "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
     "source": "QbitAI",
     "date": "2026-09-04T01:40:42+00:00",
@@ -54,6 +131,13 @@
     "date": "2026-09-03T11:25:29+00:00",
     "url": "https://www.qbitai.com/2026/09/483786.html",
     "summary": "眼镜、耳机、麦克风都来了"
+  },
+  {
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "source": "OpenAI",
+    "date": "2026-09-03T11:00:00+00:00",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
   },
   {
     "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
