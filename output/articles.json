@@ -1,5 +1,68 @@
 [
   {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "source": "OpenAI",
+    "date": "2026-09-14T00:00:00+00:00",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  },
+  {
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "source": "MIT Technology Review",
+    "date": "2026-09-11T20:05:06+00:00",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…"
+  },
+  {
+    "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+    "source": "QbitAI",
+    "date": "2026-09-11T18:02:36+00:00",
+    "url": "https://www.qbitai.com/2026/09/487631.html",
+    "summary": "看清「一个真正的人」"
+  },
+  {
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-11T16:00:00+00:00",
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+  },
+  {
+    "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+    "source": "QbitAI",
+    "date": "2026-09-11T14:05:16+00:00",
+    "url": "https://www.qbitai.com/2026/09/487573.html",
+    "summary": "原来你俩互相下单呢"
+  },
+  {
+    "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+    "source": "QbitAI",
+    "date": "2026-09-11T13:59:09+00:00",
+    "url": "https://www.qbitai.com/2026/09/487415.html",
+    "summary": "把开发、交付和接单全打通了"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "source": "OpenAI",
+    "date": "2026-09-11T10:00:00+00:00",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+  },
+  {
+    "title": "不简单，“吃货快乐榜”也全面AI化了",
+    "source": "QbitAI",
+    "date": "2026-09-11T08:59:28+00:00",
+    "url": "https://www.qbitai.com/2026/09/487282.html",
+    "summary": ""
+  },
+  {
+    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+    "source": "QbitAI",
+    "date": "2026-09-11T06:19:03+00:00",
+    "url": "https://www.qbitai.com/2026/09/487273.html",
+    "summary": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
+  },
+  {
     "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
     "source": "QbitAI",
     "date": "2026-09-11T03:57:32+00:00",
