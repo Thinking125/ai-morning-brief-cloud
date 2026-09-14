@@ -1,5 +1,33 @@
 [
   {
+    "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+    "source": "QbitAI",
+    "date": "2026-09-14T03:45:46+00:00",
+    "url": "https://www.qbitai.com/2026/09/488832.html",
+    "summary": "小模型突破瓶颈，旗舰模型打开新空间"
+  },
+  {
+    "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+    "source": "QbitAI",
+    "date": "2026-09-14T03:18:42+00:00",
+    "url": "https://www.qbitai.com/2026/09/488725.html",
+    "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路"
+  },
+  {
+    "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+    "source": "QbitAI",
+    "date": "2026-09-14T02:56:45+00:00",
+    "url": "https://www.qbitai.com/2026/09/488699.html",
+    "summary": "还是太嫩了啊Dario"
+  },
+  {
+    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+    "source": "QbitAI",
+    "date": "2026-09-14T00:30:56+00:00",
+    "url": "https://www.qbitai.com/2026/09/488694.html",
+    "summary": "模型、论文都还没出，没想到先从财务公告上剧透了"
+  },
+  {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "source": "OpenAI",
     "date": "2026-09-14T00:00:00+00:00",
@@ -7,7 +35,49 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
-    "title": "Roundtables: AI’s apocalypse crisis",
+    "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+    "source": "QbitAI",
+    "date": "2026-09-13T07:38:20+00:00",
+    "url": "https://www.qbitai.com/2026/09/488672.html",
+    "summary": "亮源新创的Physical Al路线清晰了"
+  },
+  {
+    "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+    "source": "QbitAI",
+    "date": "2026-09-13T07:20:19+00:00",
+    "url": "https://www.qbitai.com/2026/09/488519.html",
+    "summary": "出身寒微不是耻辱，放弃自己才是。"
+  },
+  {
+    "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+    "source": "QbitAI",
+    "date": "2026-09-13T06:40:25+00:00",
+    "url": "https://www.qbitai.com/2026/09/488447.html",
+    "summary": "Agent的下一步是关系型生产力"
+  },
+  {
+    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+    "source": "QbitAI",
+    "date": "2026-09-13T03:13:00+00:00",
+    "url": "https://www.qbitai.com/2026/09/488380.html",
+    "summary": "RSI太危险，得管！"
+  },
+  {
+    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+    "source": "QbitAI",
+    "date": "2026-09-12T11:38:16+00:00",
+    "url": "https://www.qbitai.com/2026/09/487860.html",
+    "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+  },
+  {
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "source": "QbitAI",
+    "date": "2026-09-12T08:49:02+00:00",
+    "url": "https://www.qbitai.com/2026/09/487796.html",
+    "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
     "source": "MIT Technology Review",
     "date": "2026-09-11T20:05:06+00:00",
     "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
