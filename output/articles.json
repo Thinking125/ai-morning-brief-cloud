@@ -1,5 +1,96 @@
 [
   {
+    "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+    "source": "QbitAI",
+    "date": "2026-09-15T02:17:34+00:00",
+    "url": "https://www.qbitai.com/2026/09/489227.html",
+    "summary": "几百个Agent参与研发，AI开始造AI"
+  },
+  {
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "source": "Google AI",
+    "date": "2026-09-14T19:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+  },
+  {
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "source": "MIT Technology Review",
+    "date": "2026-09-14T17:54:22+00:00",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…"
+  },
+  {
+    "title": "DevFest is back",
+    "source": "Google AI",
+    "date": "2026-09-14T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon"
+  },
+  {
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "source": "MIT Technology Review",
+    "date": "2026-09-14T16:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "source": "OpenAI",
+    "date": "2026-09-14T12:00:00+00:00",
+    "url": "https://openai.com/index/fyxer",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+  },
+  {
+    "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+    "source": "QbitAI",
+    "date": "2026-09-14T09:47:07+00:00",
+    "url": "https://www.qbitai.com/2026/09/489105.html",
+    "summary": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+  },
+  {
+    "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+    "source": "QbitAI",
+    "date": "2026-09-14T09:46:40+00:00",
+    "url": "https://www.qbitai.com/2026/09/489106.html",
+    "summary": "业界首个5A算电协同认证"
+  },
+  {
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "source": "QbitAI",
+    "date": "2026-09-14T09:36:28+00:00",
+    "url": "https://www.qbitai.com/2026/09/489037.html",
+    "summary": ""
+  },
+  {
+    "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+    "source": "QbitAI",
+    "date": "2026-09-14T08:17:22+00:00",
+    "url": "https://www.qbitai.com/2026/09/489023.html",
+    "summary": "AI 蛋白质设计迈入“动态时代”"
+  },
+  {
+    "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+    "source": "QbitAI",
+    "date": "2026-09-14T08:08:29+00:00",
+    "url": "https://www.qbitai.com/2026/09/488933.html",
+    "summary": "让模型和设备共同进化"
+  },
+  {
+    "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+    "source": "QbitAI",
+    "date": "2026-09-14T07:55:12+00:00",
+    "url": "https://www.qbitai.com/2026/09/488912.html",
+    "summary": "险资、券商与头部创投持续加码"
+  },
+  {
+    "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+    "source": "QbitAI",
+    "date": "2026-09-14T06:20:36+00:00",
+    "url": "https://www.qbitai.com/2026/09/488875.html",
+    "summary": "共话AI时代的生活、影像与创造。"
+  },
+  {
     "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
     "source": "QbitAI",
     "date": "2026-09-14T03:45:46+00:00",
