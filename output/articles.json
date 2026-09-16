@@ -1,5 +1,117 @@
 [
   {
+    "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+    "source": "QbitAI",
+    "date": "2026-09-16T03:40:35+00:00",
+    "url": "https://www.qbitai.com/2026/09/490185.html",
+    "summary": "从想法到结果，一次对话实现"
+  },
+  {
+    "title": "把记忆交给CPU，大模型会变快",
+    "source": "QbitAI",
+    "date": "2026-09-16T03:07:18+00:00",
+    "url": "https://www.qbitai.com/2026/09/489724.html",
+    "summary": "让GPU去忙生成Token"
+  },
+  {
+    "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+    "source": "QbitAI",
+    "date": "2026-09-16T02:58:34+00:00",
+    "url": "https://www.qbitai.com/2026/09/490109.html",
+    "summary": ""
+  },
+  {
+    "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+    "source": "QbitAI",
+    "date": "2026-09-16T02:27:20+00:00",
+    "url": "https://www.qbitai.com/2026/09/490098.html",
+    "summary": "任务通过率提升24.2%，token成本最高下降45%"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "source": "MIT Technology Review",
+    "date": "2026-09-15T17:47:51+00:00",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…"
+  },
+  {
+    "title": "AI for Societal Impact",
+    "source": "Google AI",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+  },
+  {
+    "title": "Building AI to accelerate science and improve lives",
+    "source": "Google AI",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor"
+  },
+  {
+    "title": "AI for everyone in every language",
+    "source": "Google AI",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "summary": "Animation of several words in different languages slowly zooming past"
+  },
+  {
+    "title": "梁文锋CFO到位！投过智谱MiniMax",
+    "source": "QbitAI",
+    "date": "2026-09-15T13:53:39+00:00",
+    "url": "https://www.qbitai.com/2026/09/489707.html",
+    "summary": "严文韬，1991年生，高瓴创投合伙人"
+  },
+  {
+    "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+    "source": "QbitAI",
+    "date": "2026-09-15T13:32:54+00:00",
+    "url": "https://www.qbitai.com/2026/09/489698.html",
+    "summary": "首发全场景倒车能力，体验再进一步"
+  },
+  {
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "source": "Google AI",
+    "date": "2026-09-15T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration"
+  },
+  {
+    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+    "source": "QbitAI",
+    "date": "2026-09-15T12:47:16+00:00",
+    "url": "https://www.qbitai.com/2026/09/489466.html",
+    "summary": "一句话，YOYO全面接管我的生活"
+  },
+  {
+    "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+    "source": "QbitAI",
+    "date": "2026-09-15T10:43:28+00:00",
+    "url": "https://www.qbitai.com/2026/09/489460.html",
+    "summary": "卡位具身智能规模化落地“最后一公里”！"
+  },
+  {
+    "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+    "source": "QbitAI",
+    "date": "2026-09-15T10:41:06+00:00",
+    "url": "https://www.qbitai.com/2026/09/489389.html",
+    "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
+  },
+  {
+    "title": "What’s at stake in AI’s trillion-dollar gamble",
+    "source": "MIT Technology Review",
+    "date": "2026-09-15T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…"
+  },
+  {
+    "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+    "source": "QbitAI",
+    "date": "2026-09-15T09:58:00+00:00",
+    "url": "https://www.qbitai.com/2026/09/489381.html",
+    "summary": "打破分子模拟“不可能三角”"
+  },
+  {
     "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
     "source": "QbitAI",
     "date": "2026-09-15T02:17:34+00:00",
