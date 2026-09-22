@@ -1,5 +1,117 @@
 [
   {
+    "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+    "source": "QbitAI",
+    "date": "2026-09-22T02:59:29+00:00",
+    "url": "https://www.qbitai.com/2026/09/493502.html",
+    "summary": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。"
+  },
+  {
+    "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+    "source": "QbitAI",
+    "date": "2026-09-22T02:52:05+00:00",
+    "url": "https://www.qbitai.com/2026/09/493485.html",
+    "summary": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。"
+  },
+  {
+    "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+    "source": "QbitAI",
+    "date": "2026-09-22T02:22:06+00:00",
+    "url": "https://www.qbitai.com/2026/09/493363.html",
+    "summary": "弥补算力缺口，不能只靠堆料"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+  },
+  {
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…"
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "source": "MIT Technology Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…"
+  },
+  {
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "source": "MIT Technology Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…"
+  },
+  {
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "source": "MIT Technology Review",
+    "date": "2026-09-21T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "source": "OpenAI",
+    "date": "2026-09-21T10:00:00+00:00",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+  },
+  {
+    "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+    "source": "QbitAI",
+    "date": "2026-09-21T08:25:44+00:00",
+    "url": "https://www.qbitai.com/2026/09/493268.html",
+    "summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！"
+  },
+  {
+    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+    "source": "QbitAI",
+    "date": "2026-09-21T08:21:55+00:00",
+    "url": "https://www.qbitai.com/2026/09/493241.html",
+    "summary": "97%尝试危险行为"
+  },
+  {
+    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+    "source": "QbitAI",
+    "date": "2026-09-21T07:52:46+00:00",
+    "url": "https://www.qbitai.com/2026/09/493235.html",
+    "summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。"
+  },
+  {
+    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+    "source": "QbitAI",
+    "date": "2026-09-21T07:31:26+00:00",
+    "url": "https://www.qbitai.com/2026/09/493231.html",
+    "summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark"
+  },
+  {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "source": "OpenAI",
+    "date": "2026-09-21T07:00:00+00:00",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+  },
+  {
+    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "source": "QbitAI",
+    "date": "2026-09-21T06:22:37+00:00",
+    "url": "https://www.qbitai.com/2026/09/493218.html",
+    "summary": "在物理世界真正干活的具身智能体"
+  },
+  {
     "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
     "source": "QbitAI",
     "date": "2026-09-21T03:46:43+00:00",
@@ -33,6 +145,13 @@
     "date": "2026-09-21T01:48:50+00:00",
     "url": "https://www.qbitai.com/2026/09/493091.html",
     "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "source": "OpenAI",
+    "date": "2026-09-21T00:00:00+00:00",
+    "url": "https://openai.com/index/v7",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
   },
   {
     "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
