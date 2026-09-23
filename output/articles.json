@@ -1,5 +1,110 @@
 [
   {
+    "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+    "source": "QbitAI",
+    "date": "2026-09-23T03:12:31+00:00",
+    "url": "https://www.qbitai.com/2026/09/496124.html",
+    "summary": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。"
+  },
+  {
+    "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+    "source": "QbitAI",
+    "date": "2026-09-23T01:00:54+00:00",
+    "url": "https://www.qbitai.com/2026/09/495959.html",
+    "summary": "纯电120kWh大电池，18.1吨压着照样开"
+  },
+  {
+    "title": "Better prompt caching for GPT-6",
+    "source": "OpenAI",
+    "date": "2026-09-22T21:00:00+00:00",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "source": "OpenAI",
+    "date": "2026-09-22T18:00:00+00:00",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+  },
+  {
+    "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+    "source": "QbitAI",
+    "date": "2026-09-22T15:59:35+00:00",
+    "url": "https://www.qbitai.com/2026/09/494429.html",
+    "summary": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。"
+  },
+  {
+    "title": "Agent时代，CPU的价值该重估了",
+    "source": "QbitAI",
+    "date": "2026-09-22T15:46:54+00:00",
+    "url": "https://www.qbitai.com/2026/09/494430.html",
+    "summary": "CPU与GPU趋近1∶1"
+  },
+  {
+    "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+    "source": "QbitAI",
+    "date": "2026-09-22T14:28:59+00:00",
+    "url": "https://www.qbitai.com/2026/09/494420.html",
+    "summary": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。"
+  },
+  {
+    "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+    "source": "QbitAI",
+    "date": "2026-09-22T13:57:10+00:00",
+    "url": "https://www.qbitai.com/2026/09/494263.html",
+    "summary": "商汤U1 Pro，正式发布"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "source": "MIT Technology Review",
+    "date": "2026-09-22T13:42:05+00:00",
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
+  },
+  {
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "source": "OpenAI",
+    "date": "2026-09-22T12:00:00+00:00",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+  },
+  {
+    "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+    "source": "QbitAI",
+    "date": "2026-09-22T11:58:53+00:00",
+    "url": "https://www.qbitai.com/2026/09/493653.html",
+    "summary": "梦想是做能帮妈妈订机票的AI浏览器。"
+  },
+  {
+    "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
+    "source": "QbitAI",
+    "date": "2026-09-22T11:50:28+00:00",
+    "url": "https://www.qbitai.com/2026/09/494179.html",
+    "summary": "Hugging Face CEO：「太棒了」"
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype",
+    "source": "MIT Technology Review",
+    "date": "2026-09-22T11:04:51+00:00",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…"
+  },
+  {
+    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+    "source": "QbitAI",
+    "date": "2026-09-22T10:06:34+00:00",
+    "url": "https://www.qbitai.com/2026/09/494120.html",
+    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。"
+  },
+  {
+    "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+    "source": "QbitAI",
+    "date": "2026-09-22T10:01:53+00:00",
+    "url": "https://www.qbitai.com/2026/09/494043.html",
+    "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。"
+  },
+  {
     "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
     "source": "QbitAI",
     "date": "2026-09-22T03:48:05+00:00",
@@ -40,6 +145,13 @@
     "date": "2026-09-22T02:22:06+00:00",
     "url": "https://www.qbitai.com/2026/09/493363.html",
     "summary": "弥补算力缺口，不能只靠堆料"
+  },
+  {
+    "title": "Priorities and principles for effective third party assessments",
+    "source": "OpenAI",
+    "date": "2026-09-22T00:00:00+00:00",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
   },
   {
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
