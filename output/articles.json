@@ -1,5 +1,68 @@
 [
   {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "source": "OpenAI",
+    "date": "2026-09-25T19:00:00+00:00",
+    "url": "https://openai.com/index/proaction",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+    "source": "QbitAI",
+    "date": "2026-09-25T13:24:20+00:00",
+    "url": "https://www.qbitai.com/2026/09/497278.html",
+    "summary": ""
+  },
+  {
+    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+    "source": "QbitAI",
+    "date": "2026-09-25T13:15:45+00:00",
+    "url": "https://www.qbitai.com/2026/09/497177.html",
+    "summary": ""
+  },
+  {
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "source": "QbitAI",
+    "date": "2026-09-25T10:00:14+00:00",
+    "url": "https://www.qbitai.com/2026/09/497108.html",
+    "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "source": "MIT Technology Review",
+    "date": "2026-09-25T09:16:25+00:00",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…"
+  },
+  {
+    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+    "source": "QbitAI",
+    "date": "2026-09-25T06:20:56+00:00",
+    "url": "https://www.qbitai.com/2026/09/497075.html",
+    "summary": "Agent的手越伸越长"
+  },
+  {
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "source": "QbitAI",
+    "date": "2026-09-25T06:14:07+00:00",
+    "url": "https://www.qbitai.com/2026/09/497070.html",
+    "summary": "一场物理世界的基模实验"
+  },
+  {
+    "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+    "source": "QbitAI",
+    "date": "2026-09-25T06:11:10+00:00",
+    "url": "https://www.qbitai.com/2026/09/497060.html",
+    "summary": "人工外包团队"
+  },
+  {
+    "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+    "source": "QbitAI",
+    "date": "2026-09-25T05:52:18+00:00",
+    "url": "https://www.qbitai.com/2026/09/497012.html",
+    "summary": ""
+  },
+  {
     "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
     "source": "QbitAI",
     "date": "2026-09-24T14:20:14+00:00",
@@ -490,7 +553,7 @@
     "summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上"
   },
   {
-    "title": "How V7 gives AI agents institutional memory",
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
     "source": "OpenAI",
     "date": "2026-09-21T00:00:00+00:00",
     "url": "https://openai.com/index/v7",
