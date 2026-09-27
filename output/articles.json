@@ -1,5 +1,47 @@
 [
   {
+    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+    "source": "QbitAI",
+    "date": "2026-09-26T11:49:43+00:00",
+    "url": "https://www.qbitai.com/2026/09/498478.html",
+    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+  },
+  {
+    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+    "source": "QbitAI",
+    "date": "2026-09-26T09:07:41+00:00",
+    "url": "https://www.qbitai.com/2026/09/498271.html",
+    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
+  },
+  {
+    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+    "source": "QbitAI",
+    "date": "2026-09-26T09:01:00+00:00",
+    "url": "https://www.qbitai.com/2026/09/497624.html",
+    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
+  },
+  {
+    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+    "source": "QbitAI",
+    "date": "2026-09-26T07:18:05+00:00",
+    "url": "https://www.qbitai.com/2026/09/497613.html",
+    "summary": "大伟哥：如果做不到，一年两年之后过来打我脸"
+  },
+  {
+    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+    "source": "QbitAI",
+    "date": "2026-09-26T07:12:05+00:00",
+    "url": "https://www.qbitai.com/2026/09/497425.html",
+    "summary": "vLLM人马创业公司团队出品"
+  },
+  {
+    "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+    "source": "QbitAI",
+    "date": "2026-09-26T07:04:15+00:00",
+    "url": "https://www.qbitai.com/2026/09/497382.html",
+    "summary": "还把「密钥」叫战利品"
+  },
+  {
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "source": "OpenAI",
     "date": "2026-09-25T19:00:00+00:00",
