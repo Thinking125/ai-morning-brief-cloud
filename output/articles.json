@@ -1,10 +1,80 @@
 [
   {
+    "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+    "source": "QbitAI",
+    "date": "2026-09-30T02:53:17+00:00",
+    "url": "https://www.qbitai.com/2026/09/499263.html",
+    "summary": ""
+  },
+  {
+    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+    "source": "QbitAI",
+    "date": "2026-09-29T23:01:05+00:00",
+    "url": "https://www.qbitai.com/2026/09/499246.html",
+    "summary": "今年devday牙膏挤爆"
+  },
+  {
+    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+    "source": "QbitAI",
+    "date": "2026-09-29T10:56:33+00:00",
+    "url": "https://www.qbitai.com/2026/09/499239.html",
+    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+  },
+  {
+    "title": "Making AI an asset, not an expense",
+    "source": "MIT Technology Review",
+    "date": "2026-09-29T10:43:45+00:00",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "2026-09-29T10:00:00+00:00",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI",
+    "date": "2026-09-29T10:00:00+00:00",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+  },
+  {
+    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+    "source": "QbitAI",
+    "date": "2026-09-29T07:59:46+00:00",
+    "url": "https://www.qbitai.com/2026/09/499188.html",
+    "summary": ""
+  },
+  {
+    "title": "OpenAI因新模型太强叫停发布",
+    "source": "QbitAI",
+    "date": "2026-09-29T07:49:20+00:00",
+    "url": "https://www.qbitai.com/2026/09/499140.html",
+    "summary": "AGI计划暂停。"
+  },
+  {
+    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+    "source": "QbitAI",
+    "date": "2026-09-29T07:10:59+00:00",
+    "url": "https://www.qbitai.com/2026/09/499135.html",
+    "summary": "诺因从Demo走向家庭"
+  },
+  {
     "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
     "source": "QbitAI",
     "date": "2026-09-29T00:49:30+00:00",
     "url": "https://www.qbitai.com/2026/09/499098.html",
     "summary": "李飞飞将入职AMD首席科学家"
+  },
+  {
+    "title": "Introducing dots",
+    "source": "OpenAI",
+    "date": "2026-09-29T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-dots",
+    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
   },
   {
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -26,6 +96,13 @@
     "date": "2026-09-28T19:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI",
+    "date": "2026-09-28T19:00:00+00:00",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
   },
   {
     "title": "When can we say AI made a scientific discovery?",
