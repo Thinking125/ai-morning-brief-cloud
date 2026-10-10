@@ -1,5 +1,61 @@
 [
   {
+    "title": "TRAE终于把Code和Work合并了",
+    "source": "QbitAI",
+    "date": "2026-10-09T09:19:57+00:00",
+    "url": "https://www.qbitai.com/2026/10/502426.html",
+    "summary": "大写的方便"
+  },
+  {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "source": "MIT Technology Review",
+    "date": "2026-10-09T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…"
+  },
+  {
+    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+    "source": "QbitAI",
+    "date": "2026-10-09T08:53:08+00:00",
+    "url": "https://www.qbitai.com/2026/10/502422.html",
+    "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
+  },
+  {
+    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+    "source": "QbitAI",
+    "date": "2026-10-09T08:47:34+00:00",
+    "url": "https://www.qbitai.com/2026/10/502411.html",
+    "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
+  },
+  {
+    "title": "字节找到了DeepSeek时强时弱的原因",
+    "source": "QbitAI",
+    "date": "2026-10-09T07:11:55+00:00",
+    "url": "https://www.qbitai.com/2026/10/502364.html",
+    "summary": "答不答得对，得看Token站位"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI",
+    "date": "2026-10-09T07:00:00+00:00",
+    "url": "https://openai.com/index/sophos",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "2026-10-09T07:00:00+00:00",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+  },
+  {
+    "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+    "source": "QbitAI",
+    "date": "2026-10-09T06:28:55+00:00",
+    "url": "https://www.qbitai.com/2026/10/502359.html",
+    "summary": "Google 研究成果首次登上《柳叶刀》主刊"
+  },
+  {
     "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
     "source": "QbitAI",
     "date": "2026-10-09T04:15:05+00:00",
