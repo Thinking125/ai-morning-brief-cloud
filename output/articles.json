@@ -1,5 +1,103 @@
 [
   {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "source": "Google AI",
+    "date": "2026-10-13T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "summary": "TBD"
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "source": "OpenAI",
+    "date": "2026-10-13T12:00:00+00:00",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+  },
+  {
+    "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+    "source": "QbitAI",
+    "date": "2026-10-13T11:05:39+00:00",
+    "url": "https://www.qbitai.com/2026/10/503107.html",
+    "summary": "让VLA从“演示可用”逼近“产线可用”"
+  },
+  {
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "source": "MIT Technology Review",
+    "date": "2026-10-13T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…"
+  },
+  {
+    "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "source": "QbitAI",
+    "date": "2026-10-13T09:33:37+00:00",
+    "url": "https://www.qbitai.com/2026/10/503093.html",
+    "summary": "Winverse AI"
+  },
+  {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "source": "MIT Technology Review",
+    "date": "2026-10-13T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…"
+  },
+  {
+    "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+    "source": "QbitAI",
+    "date": "2026-10-13T07:20:23+00:00",
+    "url": "https://www.qbitai.com/2026/10/502992.html",
+    "summary": "宝马保时捷缺席"
+  },
+  {
+    "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+    "source": "QbitAI",
+    "date": "2026-10-13T07:19:21+00:00",
+    "url": "https://www.qbitai.com/2026/10/502954.html",
+    "summary": "让材料感知压力，造出超薄高密度电子皮肤"
+  },
+  {
+    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "source": "QbitAI",
+    "date": "2026-10-13T06:19:10+00:00",
+    "url": "https://www.qbitai.com/2026/10/502920.html",
+    "summary": "拉马克进化的幽灵"
+  },
+  {
+    "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+    "source": "QbitAI",
+    "date": "2026-10-13T06:00:20+00:00",
+    "url": "https://www.qbitai.com/2026/10/502907.html",
+    "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
+  },
+  {
+    "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+    "source": "QbitAI",
+    "date": "2026-10-13T04:07:04+00:00",
+    "url": "https://www.qbitai.com/2026/10/502784.html",
+    "summary": "赢奖金、拿融资、送出海"
+  },
+  {
+    "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+    "source": "QbitAI",
+    "date": "2026-10-13T04:04:22+00:00",
+    "url": "https://www.qbitai.com/2026/10/502849.html",
+    "summary": "丢一句话进去，事儿就办完了"
+  },
+  {
+    "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+    "source": "QbitAI",
+    "date": "2026-10-13T04:01:15+00:00",
+    "url": "https://www.qbitai.com/2026/10/502767.html",
+    "summary": "算力、模型、行业，三层生意一起做"
+  },
+  {
+    "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+    "source": "QbitAI",
+    "date": "2026-10-13T02:01:56+00:00",
+    "url": "https://www.qbitai.com/2026/10/502770.html",
+    "summary": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名"
+  },
+  {
     "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
     "source": "QbitAI",
     "date": "2026-10-12T05:48:36+00:00",
