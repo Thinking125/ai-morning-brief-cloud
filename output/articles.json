@@ -1,5 +1,110 @@
 [
   {
+    "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
+    "source": "QbitAI",
+    "date": "2026-10-15T03:01:20+00:00",
+    "url": "https://www.qbitai.com/2026/10/503350.html",
+    "summary": "企业该如何打破海外认知壁垒？"
+  },
+  {
+    "title": "有预言家！A社研究蓝图曝光，Claude Code来自5年前",
+    "source": "QbitAI",
+    "date": "2026-10-15T02:13:29+00:00",
+    "url": "https://www.qbitai.com/2026/10/503341.html",
+    "summary": "冷汗时刻"
+  },
+  {
+    "title": "DeepSeek服务器全球宕机！神秘Harness账号同时现身",
+    "source": "QbitAI",
+    "date": "2026-10-15T02:04:09+00:00",
+    "url": "https://www.qbitai.com/2026/10/503326.html",
+    "summary": "网友集体崩溃：新模型要来了？"
+  },
+  {
+    "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+    "source": "QbitAI",
+    "date": "2026-10-15T01:56:20+00:00",
+    "url": "https://www.qbitai.com/2026/10/503303.html",
+    "summary": "给企业Agent打了个样"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "source": "OpenAI",
+    "date": "2026-10-14T12:00:00+00:00",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "source": "OpenAI",
+    "date": "2026-10-14T12:00:00+00:00",
+    "url": "https://openai.com/index/sentinelone",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+  },
+  {
+    "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+    "source": "QbitAI",
+    "date": "2026-10-14T10:41:47+00:00",
+    "url": "https://www.qbitai.com/2026/10/503294.html",
+    "summary": "“具身进实景，劳动最光荣”"
+  },
+  {
+    "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+    "source": "QbitAI",
+    "date": "2026-10-14T08:01:18+00:00",
+    "url": "https://www.qbitai.com/2026/10/503244.html",
+    "summary": "这妥妥是个物理版Agent啊！"
+  },
+  {
+    "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+    "source": "QbitAI",
+    "date": "2026-10-14T07:12:02+00:00",
+    "url": "https://www.qbitai.com/2026/10/503231.html",
+    "summary": "汽车竞争正在回归汽车本身"
+  },
+  {
+    "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+    "source": "QbitAI",
+    "date": "2026-10-14T07:03:44+00:00",
+    "url": "https://www.qbitai.com/2026/10/503211.html",
+    "summary": "从创意到成本，AI正在重写综艺的生产逻辑"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "source": "OpenAI",
+    "date": "2026-10-14T07:00:00+00:00",
+    "url": "https://openai.com/index/third-moment-research",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "source": "OpenAI",
+    "date": "2026-10-14T07:00:00+00:00",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+  },
+  {
+    "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+    "source": "QbitAI",
+    "date": "2026-10-14T06:45:38+00:00",
+    "url": "https://www.qbitai.com/2026/10/503201.html",
+    "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布"
+  },
+  {
+    "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+    "source": "QbitAI",
+    "date": "2026-10-14T06:24:00+00:00",
+    "url": "https://www.qbitai.com/2026/10/503198.html",
+    "summary": "CMOS标准工艺兼容的1TnR技术路线加速研发。"
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "source": "OpenAI",
+    "date": "2026-10-14T00:00:00+00:00",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+  },
+  {
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "source": "Google AI",
     "date": "2026-10-13T16:00:00+00:00",
