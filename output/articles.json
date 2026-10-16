@@ -1,5 +1,89 @@
 [
   {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI",
+    "date": "2026-10-15T19:00:00+00:00",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "source": "OpenAI",
+    "date": "2026-10-15T13:00:00+00:00",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+  },
+  {
+    "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+    "source": "QbitAI",
+    "date": "2026-10-15T10:07:08+00:00",
+    "url": "https://www.qbitai.com/2026/10/503645.html",
+    "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。"
+  },
+  {
+    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+    "source": "QbitAI",
+    "date": "2026-10-15T09:43:29+00:00",
+    "url": "https://www.qbitai.com/2026/10/503640.html",
+    "summary": "Siri AI这次不包括在内"
+  },
+  {
+    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+    "source": "QbitAI",
+    "date": "2026-10-15T08:48:31+00:00",
+    "url": "https://www.qbitai.com/2026/10/503614.html",
+    "summary": "Agent究竟该如何深入业务毛细血管？"
+  },
+  {
+    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+    "source": "QbitAI",
+    "date": "2026-10-15T08:16:19+00:00",
+    "url": "https://www.qbitai.com/2026/10/503611.html",
+    "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
+  },
+  {
+    "title": "这个双十一，百灵新模型干起活来不烧心",
+    "source": "QbitAI",
+    "date": "2026-10-15T07:35:24+00:00",
+    "url": "https://www.qbitai.com/2026/10/503532.html",
+    "summary": "大模型好不好用，百灵拿成品说话"
+  },
+  {
+    "title": "AI时代，商学院这样培养未来商业领袖",
+    "source": "QbitAI",
+    "date": "2026-10-15T07:22:34+00:00",
+    "url": "https://www.qbitai.com/2026/10/503504.html",
+    "summary": "未来十年共创1000个AI课题"
+  },
+  {
+    "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+    "source": "QbitAI",
+    "date": "2026-10-15T06:59:37+00:00",
+    "url": "https://www.qbitai.com/2026/10/503501.html",
+    "summary": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。"
+  },
+  {
+    "title": "苹果AI国内上线，阿里百度浮出水面",
+    "source": "QbitAI",
+    "date": "2026-10-15T06:52:45+00:00",
+    "url": "https://www.qbitai.com/2026/10/503497.html",
+    "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。"
+  },
+  {
+    "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+    "source": "QbitAI",
+    "date": "2026-10-15T06:35:46+00:00",
+    "url": "https://www.qbitai.com/2026/10/503446.html",
+    "summary": ""
+  },
+  {
+    "title": "刚刚，苹果正式迈入5万亿美元时代",
+    "source": "QbitAI",
+    "date": "2026-10-15T05:36:16+00:00",
+    "url": "https://www.qbitai.com/2026/10/503434.html",
+    "summary": "曝国行12月上线"
+  },
+  {
     "title": "复杂高客单新品如何靠YouTube 的“全链路叙事”斩获全球大奖？",
     "source": "QbitAI",
     "date": "2026-10-15T03:01:20+00:00",
@@ -26,6 +110,13 @@
     "date": "2026-10-15T01:56:20+00:00",
     "url": "https://www.qbitai.com/2026/10/503303.html",
     "summary": "给企业Agent打了个样"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "source": "OpenAI",
+    "date": "2026-10-15T00:00:00+00:00",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
   },
   {
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
