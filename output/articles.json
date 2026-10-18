@@ -1,5 +1,40 @@
 [
   {
+    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+    "source": "QbitAI",
+    "date": "2026-10-17T12:21:09+00:00",
+    "url": "https://www.qbitai.com/2026/10/504067.html",
+    "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API"
+  },
+  {
+    "title": "智谱新模型，懂法方面全球第一了",
+    "source": "QbitAI",
+    "date": "2026-10-17T12:13:45+00:00",
+    "url": "https://www.qbitai.com/2026/10/503965.html",
+    "summary": "AI的风还是刮到了法律圈"
+  },
+  {
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "source": "QbitAI",
+    "date": "2026-10-17T12:10:35+00:00",
+    "url": "https://www.qbitai.com/2026/10/503935.html",
+    "summary": "整套系统原生支持MCP"
+  },
+  {
+    "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+    "source": "QbitAI",
+    "date": "2026-10-17T12:06:51+00:00",
+    "url": "https://www.qbitai.com/2026/10/503910.html",
+    "summary": "谜底指向时间"
+  },
+  {
+    "title": "科技企业出海，为啥我推荐你去迪拜？",
+    "source": "QbitAI",
+    "date": "2026-10-17T09:05:08+00:00",
+    "url": "https://www.qbitai.com/2026/10/503893.html",
+    "summary": "通往全球市场的超级跳板"
+  },
+  {
     "title": "How Itaú is building generative AI for its entire customer base",
     "source": "OpenAI",
     "date": "2026-10-16T19:00:00+00:00",
@@ -89,6 +124,13 @@
     "date": "2026-10-16T00:00:00+00:00",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI",
+    "date": "2026-10-16T00:00:00+00:00",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
   },
   {
     "title": "Bringing GPT-Rosalind to academic research labs",
