@@ -1,10 +1,129 @@
 [
   {
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "source": "Google AI",
+    "date": "2026-10-21T04:00:00+00:00",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen"
+  },
+  {
+    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+    "source": "QbitAI",
+    "date": "2026-10-21T02:37:39+00:00",
+    "url": "https://www.qbitai.com/2026/10/504608.html",
+    "summary": "先看真实问题解决力"
+  },
+  {
+    "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+    "source": "QbitAI",
+    "date": "2026-10-21T01:04:35+00:00",
+    "url": "https://www.qbitai.com/2026/10/504551.html",
+    "summary": "电池、电驱、超充一把梭，冬天多跑30公里"
+  },
+  {
+    "title": "The new economics of enterprise AI",
+    "source": "MIT Technology Review",
+    "date": "2026-10-20T15:20:25+00:00",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?”…"
+  },
+  {
+    "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+    "source": "QbitAI",
+    "date": "2026-10-20T13:29:54+00:00",
+    "url": "https://www.qbitai.com/2026/10/504517.html",
+    "summary": "兔皮底下，竟然是MiniMax！"
+  },
+  {
+    "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+    "source": "QbitAI",
+    "date": "2026-10-20T12:50:34+00:00",
+    "url": "https://www.qbitai.com/2026/10/504456.html",
+    "summary": "把记忆原生焊进Transformer"
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "source": "MIT Technology Review",
+    "date": "2026-10-20T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "source": "OpenAI",
+    "date": "2026-10-20T10:00:00+00:00",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+  },
+  {
+    "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+    "source": "QbitAI",
+    "date": "2026-10-20T09:57:35+00:00",
+    "url": "https://www.qbitai.com/2026/10/504452.html",
+    "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴"
+  },
+  {
+    "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+    "source": "QbitAI",
+    "date": "2026-10-20T09:13:14+00:00",
+    "url": "https://www.qbitai.com/2026/10/504435.html",
+    "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。"
+  },
+  {
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "source": "MIT Technology Review",
+    "date": "2026-10-20T09:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…"
+  },
+  {
+    "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+    "source": "QbitAI",
+    "date": "2026-10-20T08:01:25+00:00",
+    "url": "https://www.qbitai.com/2026/10/504421.html",
+    "summary": "最新发布TokenFleet调度框架"
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "source": "OpenAI",
+    "date": "2026-10-20T07:00:00+00:00",
+    "url": "https://openai.com/index/terminal-x",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+  },
+  {
+    "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+    "source": "QbitAI",
+    "date": "2026-10-20T04:59:04+00:00",
+    "url": "https://www.qbitai.com/2026/10/504415.html",
+    "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样"
+  },
+  {
+    "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+    "source": "QbitAI",
+    "date": "2026-10-20T04:18:29+00:00",
+    "url": "https://www.qbitai.com/2026/10/504395.html",
+    "summary": "宁德时代电池上车"
+  },
+  {
+    "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+    "source": "QbitAI",
+    "date": "2026-10-20T04:08:15+00:00",
+    "url": "https://www.qbitai.com/2026/10/504372.html",
+    "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办"
+  },
+  {
     "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
     "source": "QbitAI",
     "date": "2026-10-20T01:09:43+00:00",
     "url": "https://www.qbitai.com/2026/10/504314.html",
     "summary": "OpenAI只掏出一个6.1 Terra…"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "source": "OpenAI",
+    "date": "2026-10-20T00:00:00+00:00",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
   },
   {
     "title": "Making the internet better for AI agents might make it worse for everyone else",
