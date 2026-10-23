@@ -1,5 +1,75 @@
 [
   {
+    "title": "Designing an AI serving harness built to last",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T21:17:29+00:00",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "source": "OpenAI",
+    "date": "2026-10-22T19:00:00+00:00",
+    "url": "https://openai.com/index/decisions-api",
+    "summary": "Fast, focused, low-cost decisions for any application."
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T18:48:04+00:00",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…"
+  },
+  {
+    "title": "Making the case for context-aware AI",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…"
+  },
+  {
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "source": "MIT Technology Review",
+    "date": "2026-10-22T08:41:18+00:00",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…"
+  },
+  {
+    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+    "source": "QbitAI",
+    "date": "2026-10-22T07:14:48+00:00",
+    "url": "https://www.qbitai.com/2026/10/504841.html",
+    "summary": "FSD一年增长70万付费用户"
+  },
+  {
+    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+    "source": "QbitAI",
+    "date": "2026-10-22T07:11:14+00:00",
+    "url": "https://www.qbitai.com/2026/10/504832.html",
+    "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent"
+  },
+  {
+    "title": "谁在给OpenAI供应具身数据？",
+    "source": "QbitAI",
+    "date": "2026-10-22T07:05:59+00:00",
+    "url": "https://www.qbitai.com/2026/10/504800.html",
+    "summary": "挤进全球Physical AI核心供应链"
+  },
+  {
+    "title": "What FDE means at OpenAI",
+    "source": "OpenAI",
+    "date": "2026-10-22T06:00:00+00:00",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "summary": "What forward deployed engineering means at OpenAI"
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-10-22T00:00:00+00:00",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+  },
+  {
     "title": "Broad access through consistent standards",
     "source": "OpenAI",
     "date": "2026-10-21T21:00:00+00:00",
@@ -28,6 +98,27 @@
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
   },
   {
+    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+    "source": "QbitAI",
+    "date": "2026-10-21T11:30:59+00:00",
+    "url": "https://www.qbitai.com/2026/10/504734.html",
+    "summary": "医疗AI质变时刻"
+  },
+  {
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "source": "QbitAI",
+    "date": "2026-10-21T09:45:22+00:00",
+    "url": "https://www.qbitai.com/2026/10/504730.html",
+    "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
+  },
+  {
+    "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+    "source": "QbitAI",
+    "date": "2026-10-21T07:15:05+00:00",
+    "url": "https://www.qbitai.com/2026/10/504653.html",
+    "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
+  },
+  {
     "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
     "source": "OpenAI",
     "date": "2026-10-21T07:00:00+00:00",
@@ -42,11 +133,25 @@
     "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
   },
   {
+    "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+    "source": "QbitAI",
+    "date": "2026-10-21T06:40:46+00:00",
+    "url": "https://www.qbitai.com/2026/10/504638.html",
+    "summary": "百万台搭载打底，智驾普及与安全并重"
+  },
+  {
     "title": "Using thousands of AI agents to uncover new leads in biological data",
     "source": "OpenAI",
     "date": "2026-10-21T04:50:00+00:00",
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+  },
+  {
+    "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+    "source": "QbitAI",
+    "date": "2026-10-21T04:35:56+00:00",
+    "url": "https://www.qbitai.com/2026/10/504618.html",
+    "summary": "电池开发，分工远比想象复杂"
   },
   {
     "title": "Southeast Asia’s digital economy to hit $368 billion",
