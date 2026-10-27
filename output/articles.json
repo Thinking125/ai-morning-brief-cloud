@@ -1,5 +1,75 @@
 [
   {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-10-26T22:00:00+00:00",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "source": "MIT Technology Review",
+    "date": "2026-10-26T17:45:43+00:00",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…"
+  },
+  {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "source": "Google AI",
+    "date": "2026-10-26T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\""
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "source": "OpenAI",
+    "date": "2026-10-26T14:30:00+00:00",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI",
+    "date": "2026-10-26T13:45:00+00:00",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "source": "OpenAI",
+    "date": "2026-10-26T10:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "source": "MIT Technology Review",
+    "date": "2026-10-26T09:01:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…"
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "source": "OpenAI",
+    "date": "2026-10-26T07:00:00+00:00",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "source": "OpenAI",
+    "date": "2026-10-26T07:00:00+00:00",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "source": "OpenAI",
+    "date": "2026-10-26T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "summary": "Bringing fast and capable computer use to everyone"
+  },
+  {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "source": "OpenAI",
     "date": "2026-10-23T17:00:00+00:00",
