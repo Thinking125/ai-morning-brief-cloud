@@ -1,5 +1,40 @@
 [
   {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "source": "OpenAI",
+    "date": "2026-10-27T15:00:00+00:00",
+    "url": "https://openai.com/index/retell-ai",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "source": "MIT Technology Review",
+    "date": "2026-10-27T11:19:18+00:00",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-10-27T07:00:00+00:00",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+  },
+  {
+    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+    "source": "QbitAI",
+    "date": "2026-10-27T03:23:55+00:00",
+    "url": "https://www.qbitai.com/2026/10/505580.html",
+    "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "source": "OpenAI",
+    "date": "2026-10-27T00:00:00+00:00",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+  },
+  {
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "source": "OpenAI",
     "date": "2026-10-26T22:00:00+00:00",
@@ -12,6 +47,13 @@
     "date": "2026-10-26T17:45:43+00:00",
     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…"
+  },
+  {
+    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+    "source": "QbitAI",
+    "date": "2026-10-26T16:06:31+00:00",
+    "url": "https://www.qbitai.com/2026/10/505551.html",
+    "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
   },
   {
     "title": "Our newest AI Quest: Mapping the human brain",
@@ -42,11 +84,60 @@
     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
   },
   {
+    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+    "source": "QbitAI",
+    "date": "2026-10-26T09:46:13+00:00",
+    "url": "https://www.qbitai.com/2026/10/505539.html",
+    "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
+  },
+  {
+    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+    "source": "QbitAI",
+    "date": "2026-10-26T09:37:57+00:00",
+    "url": "https://www.qbitai.com/2026/10/505529.html",
+    "summary": "模型开始利用GPU缓存聊天？"
+  },
+  {
+    "title": "A社联创演讲：AI奇点已来",
+    "source": "QbitAI",
+    "date": "2026-10-26T09:35:14+00:00",
+    "url": "https://www.qbitai.com/2026/10/505521.html",
+    "summary": "所谓奇点，或许是AI跃过人类的那个点。"
+  },
+  {
+    "title": "NeoLab第一个商业模式：转售GPU",
+    "source": "QbitAI",
+    "date": "2026-10-26T09:31:47+00:00",
+    "url": "https://www.qbitai.com/2026/10/505478.html",
+    "summary": "从冲刺AGI到转售GPU。"
+  },
+  {
+    "title": "中国近50%的新云生意，竟被这家公司包揽！",
+    "source": "QbitAI",
+    "date": "2026-10-26T09:02:44+00:00",
+    "url": "https://www.qbitai.com/2026/10/505454.html",
+    "summary": "有点意外，但也不意外"
+  },
+  {
     "title": "The focus on AI safety disasters ignores everyday harms",
     "source": "MIT Technology Review",
     "date": "2026-10-26T09:01:00+00:00",
     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…"
+  },
+  {
+    "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+    "source": "QbitAI",
+    "date": "2026-10-26T08:38:49+00:00",
+    "url": "https://www.qbitai.com/2026/10/505443.html",
+    "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。"
+  },
+  {
+    "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+    "source": "QbitAI",
+    "date": "2026-10-26T08:04:10+00:00",
+    "url": "https://www.qbitai.com/2026/10/505436.html",
+    "summary": "10月21日，2026世界智能网联汽车大会在北京召开"
   },
   {
     "title": "How Fanatics and OpenAI streamline the fan experience",
@@ -61,6 +152,13 @@
     "date": "2026-10-26T07:00:00+00:00",
     "url": "https://openai.com/index/openai-cut-incident-investigation",
     "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+  },
+  {
+    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+    "source": "QbitAI",
+    "date": "2026-10-26T06:50:44+00:00",
+    "url": "https://www.qbitai.com/2026/10/505429.html",
+    "summary": "高品质 AI Token 成为行业新风向"
   },
   {
     "title": "Introducing GPT-6.1 Terra",
@@ -145,6 +243,13 @@
     "date": "2026-10-23T00:00:00+00:00",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+  },
+  {
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "source": "OpenAI",
+    "date": "2026-10-23T00:00:00+00:00",
+    "url": "https://openai.com/index/anima",
+    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
   },
   {
     "title": "Designing an AI serving harness built to last",
