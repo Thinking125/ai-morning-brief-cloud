@@ -1,5 +1,47 @@
 [
   {
+    "title": "Creating AI value with enterprise context",
+    "source": "MIT Technology Review",
+    "date": "2026-10-28T20:32:02+00:00",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…"
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "source": "OpenAI",
+    "date": "2026-10-28T13:15:00+00:00",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human control",
+    "source": "MIT Technology Review",
+    "date": "2026-10-28T12:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "summary": ""
+  },
+  {
+    "title": "The future of the firm",
+    "source": "OpenAI",
+    "date": "2026-10-28T10:00:00+00:00",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us."
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "source": "OpenAI",
+    "date": "2026-10-28T09:30:00+00:00",
+    "url": "https://openai.com/index/legora",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+  },
+  {
+    "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+    "source": "QbitAI",
+    "date": "2026-10-28T04:04:48+00:00",
+    "url": "https://www.qbitai.com/2026/10/505928.html",
+    "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。"
+  },
+  {
     "title": "Retell uses OpenAI models to help power 100M monthly calls",
     "source": "OpenAI",
     "date": "2026-10-27T15:00:00+00:00",
@@ -7,11 +49,74 @@
     "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
   },
   {
+    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+    "source": "QbitAI",
+    "date": "2026-10-27T12:57:51+00:00",
+    "url": "https://www.qbitai.com/2026/10/505865.html",
+    "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。"
+  },
+  {
     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
     "source": "MIT Technology Review",
     "date": "2026-10-27T11:19:18+00:00",
     "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
     "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…"
+  },
+  {
+    "title": "印奇把4D雷达也端到端了",
+    "source": "QbitAI",
+    "date": "2026-10-27T10:40:12+00:00",
+    "url": "https://www.qbitai.com/2026/10/505852.html",
+    "summary": "毫米波雷达，AI算力10TOPS"
+  },
+  {
+    "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+    "source": "QbitAI",
+    "date": "2026-10-27T09:54:51+00:00",
+    "url": "https://www.qbitai.com/2026/10/505830.html",
+    "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车"
+  },
+  {
+    "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+    "source": "QbitAI",
+    "date": "2026-10-27T08:46:12+00:00",
+    "url": "https://www.qbitai.com/2026/10/505799.html",
+    "summary": "无人在环进店实测啃下长尾场景"
+  },
+  {
+    "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+    "source": "QbitAI",
+    "date": "2026-10-27T08:35:33+00:00",
+    "url": "https://www.qbitai.com/2026/10/505773.html",
+    "summary": "OCR 3.0时代，来了"
+  },
+  {
+    "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+    "source": "QbitAI",
+    "date": "2026-10-27T08:27:46+00:00",
+    "url": "https://www.qbitai.com/2026/10/505719.html",
+    "summary": "同一天，OpenAI还甩出3项AI科学新发现"
+  },
+  {
+    "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+    "source": "QbitAI",
+    "date": "2026-10-27T08:18:59+00:00",
+    "url": "https://www.qbitai.com/2026/10/505694.html",
+    "summary": "还是专业的模型做专业的事情"
+  },
+  {
+    "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+    "source": "QbitAI",
+    "date": "2026-10-27T07:44:41+00:00",
+    "url": "https://www.qbitai.com/2026/10/505687.html",
+    "summary": "破解绿电直连项目落地僵局"
+  },
+  {
+    "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+    "source": "QbitAI",
+    "date": "2026-10-27T07:41:02+00:00",
+    "url": "https://www.qbitai.com/2026/10/505635.html",
+    "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐"
   },
   {
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
