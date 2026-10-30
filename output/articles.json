@@ -1,5 +1,103 @@
 [
   {
+    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+    "source": "QbitAI",
+    "date": "2026-10-30T03:48:04+00:00",
+    "url": "https://www.qbitai.com/2026/10/506662.html",
+    "summary": "让机器人成为彼此的“老师”"
+  },
+  {
+    "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+    "source": "QbitAI",
+    "date": "2026-10-30T03:40:21+00:00",
+    "url": "https://www.qbitai.com/2026/10/506609.html",
+    "summary": ""
+  },
+  {
+    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+    "source": "QbitAI",
+    "date": "2026-10-30T00:19:06+00:00",
+    "url": "https://www.qbitai.com/2026/10/506569.html",
+    "summary": "Momenta世界模型上车"
+  },
+  {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "source": "OpenAI",
+    "date": "2026-10-29T17:00:00+00:00",
+    "url": "https://openai.com/index/updated-model-spec",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+  },
+  {
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "source": "MIT Technology Review",
+    "date": "2026-10-29T10:11:12+00:00",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…"
+  },
+  {
+    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+    "source": "QbitAI",
+    "date": "2026-10-29T09:58:26+00:00",
+    "url": "https://www.qbitai.com/2026/10/506554.html",
+    "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
+  },
+  {
+    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+    "source": "QbitAI",
+    "date": "2026-10-29T09:52:05+00:00",
+    "url": "https://www.qbitai.com/2026/10/506550.html",
+    "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "source": "OpenAI",
+    "date": "2026-10-29T09:00:00+00:00",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+  },
+  {
+    "title": "AI安全是AI规模化应用“加速器”",
+    "source": "QbitAI",
+    "date": "2026-10-29T08:50:14+00:00",
+    "url": "https://www.qbitai.com/2026/10/506544.html",
+    "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
+  },
+  {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "source": "OpenAI",
+    "date": "2026-10-29T07:00:00+00:00",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+  },
+  {
+    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+    "source": "QbitAI",
+    "date": "2026-10-29T06:53:19+00:00",
+    "url": "https://www.qbitai.com/2026/10/506478.html",
+    "summary": "All in one、任何人都能用"
+  },
+  {
+    "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
+    "source": "QbitAI",
+    "date": "2026-10-29T06:51:51+00:00",
+    "url": "https://www.qbitai.com/2026/10/506477.html",
+    "summary": "MIT最后一位三学位天才出手了。"
+  },
+  {
+    "title": "IDC最新报告：MaaS市场分化，PPIO拿下独立服务商首位",
+    "source": "QbitAI",
+    "date": "2026-10-29T06:13:05+00:00",
+    "url": "https://www.qbitai.com/2026/10/506468.html",
+    "summary": "百亿MaaS市场格局生变"
+  },
+  {
+    "title": "敢和英伟达现场PK的国产GPU，我是服的",
+    "source": "QbitAI",
+    "date": "2026-10-29T05:57:33+00:00",
+    "url": "https://www.qbitai.com/2026/10/506376.html",
+    "summary": "跟H200和Thor T5000硬碰硬"
+  },
+  {
     "title": "Creating AI value with enterprise context",
     "source": "MIT Technology Review",
     "date": "2026-10-28T20:32:02+00:00",
