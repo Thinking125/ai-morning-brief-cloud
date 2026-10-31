@@ -1,5 +1,75 @@
 [
   {
+    "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+    "source": "QbitAI",
+    "date": "2026-10-30T12:58:31+00:00",
+    "url": "https://www.qbitai.com/2026/10/506819.html",
+    "summary": "xs，还要给机器人打绩效"
+  },
+  {
+    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+    "source": "QbitAI",
+    "date": "2026-10-30T11:05:06+00:00",
+    "url": "https://www.qbitai.com/2026/10/506785.html",
+    "summary": "之前还连登昇腾三榜第一"
+  },
+  {
+    "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+    "source": "QbitAI",
+    "date": "2026-10-30T10:44:01+00:00",
+    "url": "https://www.qbitai.com/2026/10/506779.html",
+    "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。"
+  },
+  {
+    "title": "Making it easier for websites to express AI training preferences",
+    "source": "OpenAI",
+    "date": "2026-10-30T09:30:00+00:00",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "source": "OpenAI",
+    "date": "2026-10-30T09:00:00+00:00",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+  },
+  {
+    "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+    "source": "QbitAI",
+    "date": "2026-10-30T08:50:44+00:00",
+    "url": "https://www.qbitai.com/2026/10/506771.html",
+    "summary": ""
+  },
+  {
+    "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
+    "source": "QbitAI",
+    "date": "2026-10-30T08:12:11+00:00",
+    "url": "https://www.qbitai.com/2026/10/506747.html",
+    "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。"
+  },
+  {
+    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+    "source": "QbitAI",
+    "date": "2026-10-30T07:31:11+00:00",
+    "url": "https://www.qbitai.com/2026/10/506743.html",
+    "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重"
+  },
+  {
+    "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+    "source": "QbitAI",
+    "date": "2026-10-30T05:52:47+00:00",
+    "url": "https://www.qbitai.com/2026/10/506686.html",
+    "summary": "解析一切"
+  },
+  {
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "source": "QbitAI",
+    "date": "2026-10-30T05:50:44+00:00",
+    "url": "https://www.qbitai.com/2026/10/506674.html",
+    "summary": ""
+  },
+  {
     "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
     "source": "QbitAI",
     "date": "2026-10-30T03:48:04+00:00",
@@ -19,6 +89,13 @@
     "date": "2026-10-30T00:19:06+00:00",
     "url": "https://www.qbitai.com/2026/10/506569.html",
     "summary": "Momenta世界模型上车"
+  },
+  {
+    "title": "Fair use benefits everyone",
+    "source": "OpenAI",
+    "date": "2026-10-30T00:00:00+00:00",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
   },
   {
     "title": "An updated Model Spec for more capable and beneficial AI",
@@ -96,6 +173,13 @@
     "date": "2026-10-29T05:57:33+00:00",
     "url": "https://www.qbitai.com/2026/10/506376.html",
     "summary": "跟H200和Thor T5000硬碰硬"
+  },
+  {
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "source": "OpenAI",
+    "date": "2026-10-29T00:00:00+00:00",
+    "url": "https://openai.com/index/credit-saison",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
   },
   {
     "title": "Creating AI value with enterprise context",
