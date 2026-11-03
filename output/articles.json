@@ -1,10 +1,94 @@
 [
   {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T04:18:47+00:00",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…"
+  },
+  {
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI",
+    "date": "2026-11-02T18:00:00+00:00",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-02T18:00:00+00:00",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+  },
+  {
+    "title": "The latest AI news we announced in October 2026",
+    "source": "Google AI",
+    "date": "2026-11-02T17:45:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "summary": "Animated carousel of images from AI posts in October"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "source": "MIT Technology Review",
+    "date": "2026-11-02T17:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-02T15:30:00+00:00",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI",
+    "date": "2026-11-02T15:00:00+00:00",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "source": "MIT Technology Review",
+    "date": "2026-11-02T13:10:32+00:00",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…"
+  },
+  {
+    "title": "The agentic web is here",
+    "source": "MIT Technology Review",
+    "date": "2026-11-02T09:35:19+00:00",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…"
+  },
+  {
+    "title": "LifeVal",
+    "source": "OpenAI",
+    "date": "2026-11-02T09:00:00+00:00",
+    "url": "https://openai.com/index/lifeval",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+  },
+  {
     "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
     "source": "QbitAI",
     "date": "2026-11-02T04:28:53+00:00",
     "url": "https://www.qbitai.com/2026/11/507082.html",
     "summary": "HuggingFace疑似泄露权重已被下5000次"
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI",
+    "date": "2026-11-02T00:00:00+00:00",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+  },
+  {
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI",
+    "date": "2026-11-02T00:00:00+00:00",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
   },
   {
     "title": "三年前布局，今年爆火丨西湖大学成立新中心",
