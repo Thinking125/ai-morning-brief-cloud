@@ -1,10 +1,115 @@
 [
   {
+    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+    "source": "QbitAI",
+    "date": "2026-11-04T02:49:02+00:00",
+    "url": "https://www.qbitai.com/2026/11/507533.html",
+    "summary": "长视频记忆精度飙升，问答时延最高降97%"
+  },
+  {
+    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+    "source": "QbitAI",
+    "date": "2026-11-03T13:57:11+00:00",
+    "url": "https://www.qbitai.com/2026/11/507507.html",
+    "summary": "AI接管调度运营，仓库越干越聪明"
+  },
+  {
+    "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+    "source": "QbitAI",
+    "date": "2026-11-03T12:57:35+00:00",
+    "url": "https://www.qbitai.com/2026/11/507473.html",
+    "summary": "两位CTO，关起门来吵架"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "source": "OpenAI",
+    "date": "2026-11-03T12:00:00+00:00",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+  },
+  {
+    "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+    "source": "QbitAI",
+    "date": "2026-11-03T11:13:49+00:00",
+    "url": "https://www.qbitai.com/2026/11/507448.html",
+    "summary": "AI的下一程是生产力系统之争"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T10:43:41+00:00",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-03T08:00:00+00:00",
+    "url": "https://openai.com/index/cisco-cyber",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "source": "OpenAI",
+    "date": "2026-11-03T08:00:00+00:00",
+    "url": "https://openai.com/index/heimstaden",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+    "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+    "source": "QbitAI",
+    "date": "2026-11-03T06:55:30+00:00",
+    "url": "https://www.qbitai.com/2026/11/507419.html",
+    "summary": "终于，有了一个可以触摸的起点"
+  },
+  {
+    "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+    "source": "QbitAI",
+    "date": "2026-11-03T06:29:11+00:00",
+    "url": "https://www.qbitai.com/2026/11/507410.html",
+    "summary": "TeleAI智慧看护助手"
+  },
+  {
+    "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+    "source": "QbitAI",
+    "date": "2026-11-03T05:59:05+00:00",
+    "url": "https://www.qbitai.com/2026/11/507405.html",
+    "summary": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。"
+  },
+  {
+    "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+    "source": "QbitAI",
+    "date": "2026-11-03T05:16:35+00:00",
+    "url": "https://www.qbitai.com/2026/11/507396.html",
+    "summary": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项"
+  },
+  {
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "source": "MIT Technology Review",
     "date": "2026-11-03T04:18:47+00:00",
     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…"
+  },
+  {
+    "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+    "source": "QbitAI",
+    "date": "2026-11-03T03:41:06+00:00",
+    "url": "https://www.qbitai.com/2026/11/507382.html",
+    "summary": "单季狂揽1130亿人民币，但..."
+  },
+  {
+    "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+    "source": "QbitAI",
+    "date": "2026-11-03T03:16:23+00:00",
+    "url": "https://www.qbitai.com/2026/11/507367.html",
+    "summary": "GPU迭代一百次的事，它一步做完"
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "source": "OpenAI",
+    "date": "2026-11-03T00:00:00+00:00",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
   },
   {
     "title": "Rewarding defenders with bigger bug bounties",
@@ -343,6 +448,13 @@
     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…"
   },
   {
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "source": "OpenAI",
+    "date": "2026-10-28T19:40:49+00:00",
+    "url": "https://openai.com/ads/customers/evernote",
+    "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
+  },
+  {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "source": "OpenAI",
     "date": "2026-10-28T13:15:00+00:00",
@@ -483,6 +595,13 @@
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
   },
   {
+    "title": "Introducing GPT-6.1 Terra",
+    "source": "OpenAI",
+    "date": "2026-10-26T18:00:00+00:00",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "summary": "Delivering fast and capable computer use at scale"
+  },
+  {
     "title": "Will the real Anthropic please stand up",
     "source": "MIT Technology Review",
     "date": "2026-10-26T17:45:43+00:00",
@@ -600,13 +719,6 @@
     "date": "2026-10-26T06:50:44+00:00",
     "url": "https://www.qbitai.com/2026/10/505429.html",
     "summary": "高品质 AI Token 成为行业新风向"
-  },
-  {
-    "title": "Introducing GPT-6.1 Terra",
-    "source": "OpenAI",
-    "date": "2026-10-26T00:00:00+00:00",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "summary": "Bringing fast and capable computer use to everyone"
   },
   {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
