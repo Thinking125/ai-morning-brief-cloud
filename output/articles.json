@@ -1,10 +1,129 @@
 [
   {
+    "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+    "source": "QbitAI",
+    "date": "2026-11-05T05:25:37+00:00",
+    "url": "https://www.qbitai.com/2026/11/507767.html",
+    "summary": "像雇人一样雇机器人"
+  },
+  {
+    "title": "",
+    "source": "QbitAI",
+    "date": "2026-11-05T03:58:41+00:00",
+    "url": "https://www.qbitai.com/2026/11/507757.html",
+    "summary": "尹希官宣离开OpenAI"
+  },
+  {
+    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+    "source": "QbitAI",
+    "date": "2026-11-05T02:01:51+00:00",
+    "url": "https://www.qbitai.com/2026/11/507696.html",
+    "summary": "Data + AI 技术实践巡展 · 上海站"
+  },
+  {
+    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+    "source": "QbitAI",
+    "date": "2026-11-05T01:59:37+00:00",
+    "url": "https://www.qbitai.com/2026/11/507707.html",
+    "summary": "最快6秒出图"
+  },
+  {
+    "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+    "source": "QbitAI",
+    "date": "2026-11-05T01:54:44+00:00",
+    "url": "https://www.qbitai.com/2026/11/507697.html",
+    "summary": "被轰成筛子了…"
+  },
+  {
+    "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+    "source": "QbitAI",
+    "date": "2026-11-05T01:42:43+00:00",
+    "url": "https://www.qbitai.com/2026/11/507688.html",
+    "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。"
+  },
+  {
+    "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+    "source": "QbitAI",
+    "date": "2026-11-05T00:41:34+00:00",
+    "url": "https://www.qbitai.com/2026/11/507675.html",
+    "summary": "薪资+期权不限！实习生也能训核心模型"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T18:50:55+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
+  },
+  {
+    "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+    "source": "QbitAI",
+    "date": "2026-11-04T16:13:23+00:00",
+    "url": "https://www.qbitai.com/2026/11/507647.html",
+    "summary": "连路人都有自己的想法"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "source": "OpenAI",
+    "date": "2026-11-04T14:30:00+00:00",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…"
+  },
+  {
+    "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "source": "QbitAI",
+    "date": "2026-11-04T10:08:38+00:00",
+    "url": "https://www.qbitai.com/2026/11/507586.html",
+    "summary": "仅激活3B参数，十项基准全线提升！"
+  },
+  {
+    "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+    "source": "QbitAI",
+    "date": "2026-11-04T08:59:57+00:00",
+    "url": "https://www.qbitai.com/2026/11/507574.html",
+    "summary": "一场别开生面的具身智能科技盛宴"
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "source": "OpenAI",
+    "date": "2026-11-04T08:00:00+00:00",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "source": "OpenAI",
+    "date": "2026-11-04T07:00:00+00:00",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+  },
+  {
     "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
     "source": "QbitAI",
     "date": "2026-11-04T02:49:02+00:00",
     "url": "https://www.qbitai.com/2026/11/507533.html",
     "summary": "长视频记忆精度飙升，问答时延最高降97%"
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "source": "OpenAI",
+    "date": "2026-11-04T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "source": "OpenAI",
+    "date": "2026-11-04T00:00:00+00:00",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
   },
   {
     "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
