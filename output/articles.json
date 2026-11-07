@@ -1,5 +1,96 @@
 [
   {
+    "title": "AGENTS.MD，危险危险危险！！！",
+    "source": "QbitAI",
+    "date": "2026-11-07T03:43:55+00:00",
+    "url": "https://www.qbitai.com/2026/11/508244.html",
+    "summary": "全新的电脑病毒"
+  },
+  {
+    "title": "",
+    "source": "QbitAI",
+    "date": "2026-11-07T03:31:44+00:00",
+    "url": "https://www.qbitai.com/2026/11/508236.html",
+    "summary": "中国版cosmos再交卷"
+  },
+  {
+    "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+    "source": "QbitAI",
+    "date": "2026-11-07T03:23:29+00:00",
+    "url": "https://www.qbitai.com/2026/11/508196.html",
+    "summary": "RSI不可能无限快"
+  },
+  {
+    "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+    "source": "QbitAI",
+    "date": "2026-11-06T15:21:56+00:00",
+    "url": "https://www.qbitai.com/2026/11/508184.html",
+    "summary": "Dario刚喊减速…"
+  },
+  {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "date": "2026-11-06T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…"
+  },
+  {
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "source": "QbitAI",
+    "date": "2026-11-06T09:25:59+00:00",
+    "url": "https://www.qbitai.com/2026/11/508174.html",
+    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+  },
+  {
+    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+    "source": "QbitAI",
+    "date": "2026-11-06T09:21:51+00:00",
+    "url": "https://www.qbitai.com/2026/11/508170.html",
+    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相"
+  },
+  {
+    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "source": "QbitAI",
+    "date": "2026-11-06T09:19:00+00:00",
+    "url": "https://www.qbitai.com/2026/11/508165.html",
+    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》"
+  },
+  {
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "source": "OpenAI",
+    "date": "2026-11-06T08:00:00+00:00",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+  },
+  {
+    "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+    "source": "QbitAI",
+    "date": "2026-11-06T07:00:29+00:00",
+    "url": "https://www.qbitai.com/2026/11/508155.html",
+    "summary": "Q3营收实现数倍增长"
+  },
+  {
+    "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+    "source": "QbitAI",
+    "date": "2026-11-06T06:54:17+00:00",
+    "url": "https://www.qbitai.com/2026/11/508118.html",
+    "summary": "挑战商业视频的高难度场景"
+  },
+  {
+    "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+    "source": "QbitAI",
+    "date": "2026-11-06T06:43:14+00:00",
+    "url": "https://www.qbitai.com/2026/11/508143.html",
+    "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。"
+  },
+  {
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "source": "OpenAI",
+    "date": "2026-11-06T00:00:00+00:00",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+  },
+  {
     "title": "Cult.fit builds operational muscle with Codex",
     "source": "OpenAI",
     "date": "2026-11-05T20:00:00+00:00",
