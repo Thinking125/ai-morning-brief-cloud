@@ -1,5 +1,124 @@
 [
   {
+    "title": "The backlash about data centers might really just be about electricity",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T19:35:33+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…"
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "source": "OpenAI",
+    "date": "2026-11-09T19:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+  },
+  {
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T17:05:43+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…"
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "source": "OpenAI",
+    "date": "2026-11-09T13:00:00+00:00",
+    "url": "https://openai.com/index/control-room",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…"
+  },
+  {
+    "title": "“AI毁了我的计算机学位”",
+    "source": "QbitAI",
+    "date": "2026-11-09T08:57:20+00:00",
+    "url": "https://www.qbitai.com/2026/11/508706.html",
+    "summary": "教授也用Claude糊弄…"
+  },
+  {
+    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+    "source": "QbitAI",
+    "date": "2026-11-09T08:44:00+00:00",
+    "url": "https://www.qbitai.com/2026/11/507843.html",
+    "summary": ""
+  },
+  {
+    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+    "source": "QbitAI",
+    "date": "2026-11-09T08:34:03+00:00",
+    "url": "https://www.qbitai.com/2026/11/508694.html",
+    "summary": "11月9日，千问办公发布2.0版本"
+  },
+  {
+    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+    "source": "QbitAI",
+    "date": "2026-11-09T08:26:45+00:00",
+    "url": "https://www.qbitai.com/2026/11/508690.html",
+    "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。"
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "source": "OpenAI",
+    "date": "2026-11-09T08:00:00+00:00",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "source": "OpenAI",
+    "date": "2026-11-09T08:00:00+00:00",
+    "url": "https://openai.com/index/kuken",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+  },
+  {
+    "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+    "source": "QbitAI",
+    "date": "2026-11-09T07:02:36+00:00",
+    "url": "https://www.qbitai.com/2026/11/508629.html",
+    "summary": "最早量产的亲自泼冷水"
+  },
+  {
+    "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+    "source": "QbitAI",
+    "date": "2026-11-09T05:47:58+00:00",
+    "url": "https://www.qbitai.com/2026/11/508607.html",
+    "summary": "Worker不够了主管Agent还能自己招！"
+  },
+  {
+    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+    "source": "QbitAI",
+    "date": "2026-11-09T05:09:23+00:00",
+    "url": "https://www.qbitai.com/2026/11/508603.html",
+    "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
+  },
+  {
+    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+    "source": "QbitAI",
+    "date": "2026-11-09T03:47:12+00:00",
+    "url": "https://www.qbitai.com/2026/11/508586.html",
+    "summary": "“让人放心，把人放大。”"
+  },
+  {
+    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+    "source": "QbitAI",
+    "date": "2026-11-09T02:19:08+00:00",
+    "url": "https://www.qbitai.com/2026/11/508566.html",
+    "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动"
+  },
+  {
+    "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+    "source": "QbitAI",
+    "date": "2026-11-09T00:40:50+00:00",
+    "url": "https://www.qbitai.com/2026/11/508498.html",
+    "summary": "英伟达暗盘跌2%"
+  },
+  {
     "title": "资本正在撤离“世界模型”",
     "source": "QbitAI",
     "date": "2026-11-08T04:09:55+00:00",
