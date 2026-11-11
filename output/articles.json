@@ -77,6 +77,13 @@
     "summary": "近亿元融资刚刚落袋"
   },
   {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "source": "OpenAI",
+    "date": "2026-11-10T08:00:00+00:00",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+  },
+  {
     "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
     "source": "QbitAI",
     "date": "2026-11-10T07:57:45+00:00",
@@ -133,11 +140,25 @@
     "summary": "速度提了，API价格降了"
   },
   {
+    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+    "source": "QbitAI",
+    "date": "2026-11-10T01:27:09+00:00",
+    "url": "https://www.qbitai.com/2026/11/508798.html",
+    "summary": "办公AI结束单机模式"
+  },
+  {
     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
     "source": "OpenAI",
     "date": "2026-11-10T00:00:00+00:00",
     "url": "https://openai.com/index/cogent-security",
     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+  },
+  {
+    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+    "source": "QbitAI",
+    "date": "2026-11-09T22:11:49+00:00",
+    "url": "https://www.qbitai.com/2026/11/508787.html",
+    "summary": "投毒 → 耗尽预算 → 诱导误判"
   },
   {
     "title": "The backlash about data centers might really just be about electricity",
