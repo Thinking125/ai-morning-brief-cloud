@@ -1,5 +1,145 @@
 [
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "source": "OpenAI",
+    "date": "2026-11-12T00:00:00+00:00",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "source": "OpenAI",
+    "date": "2026-11-11T08:00:00+00:00",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+    "source": "QbitAI",
+    "date": "2026-11-11T03:43:31+00:00",
+    "url": "https://www.qbitai.com/2026/11/509052.html",
+    "summary": "L4无人化作业走向规模交付"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "source": "Google AI",
+    "date": "2026-11-10T19:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'"
+  },
+  {
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "source": "Google AI",
+    "date": "2026-11-10T14:00:00+00:00",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+  },
+  {
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "source": "Google AI",
+    "date": "2026-11-10T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "source": "OpenAI",
+    "date": "2026-11-10T12:00:00+00:00",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+  },
+  {
+    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "source": "QbitAI",
+    "date": "2026-11-10T10:35:38+00:00",
+    "url": "https://www.qbitai.com/2026/11/509032.html",
+    "summary": ""
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-11-10T10:00:00+00:00",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "source": "OpenAI",
+    "date": "2026-11-10T09:00:00+00:00",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+  },
+  {
+    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+    "source": "QbitAI",
+    "date": "2026-11-10T08:33:25+00:00",
+    "url": "https://www.qbitai.com/2026/11/509017.html",
+    "summary": "近亿元融资刚刚落袋"
+  },
+  {
+    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:57:45+00:00",
+    "url": "https://www.qbitai.com/2026/11/508996.html",
+    "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
+  },
+  {
+    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:56:29+00:00",
+    "url": "https://www.qbitai.com/2026/11/508998.html",
+    "summary": "让每一次任务，都成为下一次进步的起点"
+  },
+  {
+    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:50:26+00:00",
+    "url": "https://www.qbitai.com/2026/11/508991.html",
+    "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
+  },
+  {
+    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:33:19+00:00",
+    "url": "https://www.qbitai.com/2026/11/508985.html",
+    "summary": "加速东部城市型智算中心向E-AIDC演进"
+  },
+  {
+    "title": "Token卷到触觉了！机器人终于有了通用手感",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:26:53+00:00",
+    "url": "https://www.qbitai.com/2026/11/508919.html",
+    "summary": "蚂蚁灵波开源LingBot-Touch"
+  },
+  {
+    "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+    "source": "QbitAI",
+    "date": "2026-11-10T07:03:43+00:00",
+    "url": "https://www.qbitai.com/2026/11/508912.html",
+    "summary": "作曲、拍片、3D建模一条龙全包圆"
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "source": "OpenAI",
+    "date": "2026-11-10T07:00:00+00:00",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+  },
+  {
+    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+    "source": "QbitAI",
+    "date": "2026-11-10T02:48:22+00:00",
+    "url": "https://www.qbitai.com/2026/11/508828.html",
+    "summary": "速度提了，API价格降了"
+  },
+  {
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "source": "OpenAI",
+    "date": "2026-11-10T00:00:00+00:00",
+    "url": "https://openai.com/index/cogent-security",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+  },
+  {
     "title": "The backlash about data centers might really just be about electricity",
     "source": "MIT Technology Review",
     "date": "2026-11-09T19:35:33+00:00",
