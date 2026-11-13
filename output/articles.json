@@ -1,5 +1,89 @@
 [
   {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "source": "MIT Technology Review",
+    "date": "2026-11-12T20:16:24+00:00",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-12T20:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+  },
+  {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "source": "Google AI",
+    "date": "2026-11-12T18:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "source": "OpenAI",
+    "date": "2026-11-12T12:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
+  },
+  {
+    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "source": "QbitAI",
+    "date": "2026-11-12T11:36:20+00:00",
+    "url": "https://www.qbitai.com/2026/11/509440.html",
+    "summary": "「CAD拆解」"
+  },
+  {
+    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+    "source": "QbitAI",
+    "date": "2026-11-12T10:45:33+00:00",
+    "url": "https://www.qbitai.com/2026/11/509404.html",
+    "summary": "银河智学首席科学家邓澍军博士发表主题演讲"
+  },
+  {
+    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+    "source": "QbitAI",
+    "date": "2026-11-12T10:11:29+00:00",
+    "url": "https://www.qbitai.com/2026/11/509381.html",
+    "summary": "全世界都在踩刹车，达里奥一个人踩油门"
+  },
+  {
+    "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+    "source": "QbitAI",
+    "date": "2026-11-12T10:08:24+00:00",
+    "url": "https://www.qbitai.com/2026/11/509355.html",
+    "summary": "Grok在让人破绷这件事上，从来不会让人失望。"
+  },
+  {
+    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+    "source": "QbitAI",
+    "date": "2026-11-12T09:34:06+00:00",
+    "url": "https://www.qbitai.com/2026/11/509349.html",
+    "summary": "企业 AI 的难题，不只是模型够不够强"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "source": "OpenAI",
+    "date": "2026-11-12T09:30:00+00:00",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+  },
+  {
+    "title": "马斯克已准备好聘请黄仁勋",
+    "source": "QbitAI",
+    "date": "2026-11-12T08:16:11+00:00",
+    "url": "https://www.qbitai.com/2026/11/509334.html",
+    "summary": "老黄出轨认错、再曝婚外恋"
+  },
+  {
+    "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+    "source": "QbitAI",
+    "date": "2026-11-12T07:55:11+00:00",
+    "url": "https://www.qbitai.com/2026/11/509291.html",
+    "summary": "只管挖不管埋。"
+  },
+  {
     "title": "百曜科技入选全球 The Information 50！",
     "source": "QbitAI",
     "date": "2026-11-12T06:13:22+00:00",
@@ -19,6 +103,13 @@
     "date": "2026-11-12T00:00:00+00:00",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+    "title": "Supporting research on AI and children’s safety",
+    "source": "OpenAI",
+    "date": "2026-11-12T00:00:00+00:00",
+    "url": "https://openai.com/index/children-first-declaration",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
   },
   {
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
