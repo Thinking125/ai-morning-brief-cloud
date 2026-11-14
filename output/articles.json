@@ -1,5 +1,89 @@
 [
   {
+    "title": "Introducing ChatGPT Wallet",
+    "source": "OpenAI",
+    "date": "2026-11-13T15:00:00+00:00",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+  },
+  {
+    "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+    "source": "QbitAI",
+    "date": "2026-11-13T09:02:39+00:00",
+    "url": "https://www.qbitai.com/2026/11/509995.html",
+    "summary": "一个时代结束了"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-13T08:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+  },
+  {
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:51:08+00:00",
+    "url": "https://www.qbitai.com/2026/11/509827.html",
+    "summary": "12.9 北京，来MEET2027现场"
+  },
+  {
+    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:43:03+00:00",
+    "url": "https://www.qbitai.com/2026/11/509796.html",
+    "summary": "250名国内顶尖三甲医院医生联合评测"
+  },
+  {
+    "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:17:54+00:00",
+    "url": "https://www.qbitai.com/2026/11/509730.html",
+    "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
+  },
+  {
+    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:12:42+00:00",
+    "url": "https://www.qbitai.com/2026/11/509716.html",
+    "summary": "比亚迪正在把规模优势转化为技术与品牌价值"
+  },
+  {
+    "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:09:05+00:00",
+    "url": "https://www.qbitai.com/2026/11/509710.html",
+    "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
+  },
+  {
+    "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+    "source": "QbitAI",
+    "date": "2026-11-13T07:06:32+00:00",
+    "url": "https://www.qbitai.com/2026/11/509663.html",
+    "summary": "数据不出域、本地可部署"
+  },
+  {
+    "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+    "source": "QbitAI",
+    "date": "2026-11-13T06:54:44+00:00",
+    "url": "https://www.qbitai.com/2026/11/509653.html",
+    "summary": "想要什么功能，让Agent自己开发"
+  },
+  {
+    "title": "特斯拉和SpaceX最快下月合并",
+    "source": "QbitAI",
+    "date": "2026-11-13T06:43:06+00:00",
+    "url": "https://www.qbitai.com/2026/11/509613.html",
+    "summary": "马斯克帝国终极形态。"
+  },
+  {
+    "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+    "source": "QbitAI",
+    "date": "2026-11-13T06:29:23+00:00",
+    "url": "https://www.qbitai.com/2026/11/509614.html",
+    "summary": "信息少传80%，准确率反而提高"
+  },
+  {
     "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
     "source": "MIT Technology Review",
     "date": "2026-11-12T20:16:24+00:00",
