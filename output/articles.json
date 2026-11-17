@@ -1,5 +1,180 @@
 [
   {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "source": "OpenAI",
+    "date": "2026-11-17T00:00:00+00:00",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T18:38:47+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "source": "OpenAI",
+    "date": "2026-11-16T17:00:00+00:00",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+  },
+  {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "source": "OpenAI",
+    "date": "2026-11-16T17:00:00+00:00",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T16:04:28+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…"
+  },
+  {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "source": "Google AI",
+    "date": "2026-11-16T14:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "summary": "tbd"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…"
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-11-16T12:00:00+00:00",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+  },
+  {
+    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+    "source": "QbitAI",
+    "date": "2026-11-16T10:57:31+00:00",
+    "url": "https://www.qbitai.com/2026/11/510542.html",
+    "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”"
+  },
+  {
+    "title": "How Revolut raises ambition without lowering the bar",
+    "source": "OpenAI",
+    "date": "2026-11-16T09:30:00+00:00",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
+  },
+  {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "source": "OpenAI",
+    "date": "2026-11-16T09:00:00+00:00",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+  },
+  {
+    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+    "source": "QbitAI",
+    "date": "2026-11-16T08:45:17+00:00",
+    "url": "https://www.qbitai.com/2026/11/510526.html",
+    "summary": "12月1日，细数AI的未竟之问。"
+  },
+  {
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "source": "QbitAI",
+    "date": "2026-11-16T08:02:07+00:00",
+    "url": "https://www.qbitai.com/2026/11/510496.html",
+    "summary": "在华为待了快10000天。"
+  },
+  {
+    "title": "Our first phase of embedded assessments",
+    "source": "OpenAI",
+    "date": "2026-11-16T08:00:00+00:00",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+  },
+  {
+    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+    "source": "QbitAI",
+    "date": "2026-11-16T07:58:57+00:00",
+    "url": "https://www.qbitai.com/2026/11/510493.html",
+    "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。"
+  },
+  {
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "source": "QbitAI",
+    "date": "2026-11-16T07:51:57+00:00",
+    "url": "https://www.qbitai.com/2026/11/510486.html",
+    "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+  },
+  {
+    "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+    "source": "QbitAI",
+    "date": "2026-11-16T07:26:33+00:00",
+    "url": "https://www.qbitai.com/2026/11/510436.html",
+    "summary": "余承东重新明确分工"
+  },
+  {
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI",
+    "date": "2026-11-16T06:00:00+00:00",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+  },
+  {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "source": "OpenAI",
+    "date": "2026-11-16T06:00:00+00:00",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": ""
+  },
+  {
+    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+    "source": "QbitAI",
+    "date": "2026-11-16T05:05:22+00:00",
+    "url": "https://www.qbitai.com/2026/11/510416.html",
+    "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。"
+  },
+  {
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "source": "QbitAI",
+    "date": "2026-11-16T03:54:30+00:00",
+    "url": "https://www.qbitai.com/2026/11/510404.html",
+    "summary": "50岁，以“华为董事”之名退休，又有几人？"
+  },
+  {
+    "title": "今天截止！2026年度AI表彰，错过再等一年！",
+    "source": "QbitAI",
+    "date": "2026-11-16T03:19:53+00:00",
+    "url": "https://www.qbitai.com/2026/11/510382.html",
+    "summary": "量子位在寻找“能干”的答案"
+  },
+  {
+    "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+    "source": "QbitAI",
+    "date": "2026-11-16T03:07:39+00:00",
+    "url": "https://www.qbitai.com/2026/11/510369.html",
+    "summary": "是石科技最新发布多模态模型服务"
+  },
+  {
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "source": "OpenAI",
+    "date": "2026-11-16T00:00:00+00:00",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+  },
+  {
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "source": "OpenAI",
+    "date": "2026-11-16T00:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
+  },
+  {
     "title": "A step toward defining the Standard Model on a lattice",
     "source": "OpenAI",
     "date": "2026-11-15T22:00:01+00:00",
