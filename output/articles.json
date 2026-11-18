@@ -1,10 +1,122 @@
 [
   {
+    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+    "source": "QbitAI",
+    "date": "2026-11-18T04:49:51+00:00",
+    "url": "https://www.qbitai.com/2026/11/510811.html",
+    "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！"
+  },
+  {
+    "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+    "source": "QbitAI",
+    "date": "2026-11-18T04:28:57+00:00",
+    "url": "https://www.qbitai.com/2026/11/510821.html",
+    "summary": "具身全栈玩家"
+  },
+  {
+    "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+    "source": "QbitAI",
+    "date": "2026-11-18T02:49:23+00:00",
+    "url": "https://www.qbitai.com/2026/11/510737.html",
+    "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心"
+  },
+  {
+    "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+    "source": "QbitAI",
+    "date": "2026-11-18T01:03:42+00:00",
+    "url": "https://www.qbitai.com/2026/11/510726.html",
+    "summary": "英伟达公布了老黄离职后的首份财报"
+  },
+  {
+    "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+    "source": "QbitAI",
+    "date": "2026-11-18T00:49:14+00:00",
+    "url": "https://www.qbitai.com/2026/11/510707.html",
+    "summary": "Sol逼近旗舰性能"
+  },
+  {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI",
+    "date": "2026-11-17T17:45:00+00:00",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+  },
+  {
+    "title": "Put Gemini to work for you",
+    "source": "Google AI",
+    "date": "2026-11-17T17:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\"."
+  },
+  {
+    "title": "Research Reports",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T14:39:46+00:00",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "summary": "To access a report, click on the corresponding image below."
+  },
+  {
+    "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+    "source": "QbitAI",
+    "date": "2026-11-17T14:15:20+00:00",
+    "url": "https://www.qbitai.com/2026/11/510695.html",
+    "summary": "82亿美元股票，46天闪电交割"
+  },
+  {
+    "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+    "source": "QbitAI",
+    "date": "2026-11-17T11:40:37+00:00",
+    "url": "https://www.qbitai.com/2026/11/510688.html",
+    "summary": "瞄准「产业级世界模型」"
+  },
+  {
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI",
+    "date": "2026-11-17T08:00:00+00:00",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+  },
+  {
+    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "source": "QbitAI",
+    "date": "2026-11-17T06:09:40+00:00",
+    "url": "https://www.qbitai.com/2026/11/510652.html",
+    "summary": "筛材料、找配方、开发新模型…拿下多项科研任务"
+  },
+  {
+    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+    "source": "QbitAI",
+    "date": "2026-11-17T04:35:03+00:00",
+    "url": "https://www.qbitai.com/2026/11/510610.html",
+    "summary": "斩获80000元奖金"
+  },
+  {
+    "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+    "source": "QbitAI",
+    "date": "2026-11-17T02:33:13+00:00",
+    "url": "https://www.qbitai.com/2026/11/510592.html",
+    "summary": "奥特曼首谈黄仁勋离职"
+  },
+  {
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "source": "OpenAI",
     "date": "2026-11-17T00:00:00+00:00",
     "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+  },
+  {
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI",
+    "date": "2026-11-17T00:00:00+00:00",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI",
+    "date": "2026-11-17T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
   },
   {
     "title": "The open-source movement wants Jensen Huang back",
@@ -427,6 +539,13 @@
     "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
   },
   {
+    "title": "ChatGPT Ads increases its market presence in 44 countries",
+    "source": "OpenAI",
+    "date": "2026-11-12T00:00:00+00:00",
+    "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
+  },
+  {
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "source": "Google AI",
     "date": "2026-11-11T18:00:00+00:00",
@@ -679,7 +798,7 @@
     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
   },
   {
-    "title": "Innovating with AI in the special chemicals industry",
+    "title": "Innovating with AI in the specialty chemicals industry",
     "source": "MIT Technology Review",
     "date": "2026-11-09T13:00:00+00:00",
     "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
