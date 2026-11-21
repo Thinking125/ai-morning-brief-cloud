@@ -1,5 +1,26 @@
 [
   {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "source": "MIT Technology Review",
+    "date": "2026-11-20T18:15:15+00:00",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
+  },
+  {
+    "title": "Combatting adversarial distillation",
+    "source": "OpenAI",
+    "date": "2026-11-20T10:00:00+00:00",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+  },
+  {
+    "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+    "source": "QbitAI",
+    "date": "2026-11-20T08:04:58+00:00",
+    "url": "https://www.qbitai.com/2026/11/511610.html",
+    "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。"
+  },
+  {
     "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
     "source": "QbitAI",
     "date": "2026-11-20T06:16:06+00:00",
@@ -19,6 +40,20 @@
     "date": "2026-11-20T01:07:38+00:00",
     "url": "https://www.qbitai.com/2026/11/511426.html",
     "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。"
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "source": "OpenAI",
+    "date": "2026-11-20T00:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "source": "OpenAI",
+    "date": "2026-11-20T00:00:00+00:00",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
   },
   {
     "title": "Introducing Tool Retrieval in the Gemini API",
