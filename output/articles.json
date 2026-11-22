@@ -1,5 +1,26 @@
 [
   {
+    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+    "source": "QbitAI",
+    "date": "2026-11-21T06:35:59+00:00",
+    "url": "https://www.qbitai.com/2026/11/511779.html",
+    "summary": "还实现可变形物体操控全球首通"
+  },
+  {
+    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+    "source": "QbitAI",
+    "date": "2026-11-21T06:32:31+00:00",
+    "url": "https://www.qbitai.com/2026/11/511570.html",
+    "summary": "专为本地部署而生"
+  },
+  {
+    "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+    "source": "QbitAI",
+    "date": "2026-11-21T06:30:55+00:00",
+    "url": "https://www.qbitai.com/2026/11/511757.html",
+    "summary": "还透露了不少训练背后的秘诀"
+  },
+  {
     "title": "The most misunderstood graph in AI just got a major update",
     "source": "MIT Technology Review",
     "date": "2026-11-20T18:15:15+00:00",
@@ -7,11 +28,39 @@
     "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…"
   },
   {
+    "title": "米哈游发了个VLA论文",
+    "source": "QbitAI",
+    "date": "2026-11-20T16:25:26+00:00",
+    "url": "https://www.qbitai.com/2026/11/511740.html",
+    "summary": "8B参数，50小时自主运行"
+  },
+  {
+    "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+    "source": "QbitAI",
+    "date": "2026-11-20T16:07:39+00:00",
+    "url": "https://www.qbitai.com/2026/11/511727.html",
+    "summary": ""
+  },
+  {
+    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+    "source": "QbitAI",
+    "date": "2026-11-20T12:18:01+00:00",
+    "url": "https://www.qbitai.com/2026/11/511722.html",
+    "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals"
+  },
+  {
     "title": "Combatting adversarial distillation",
     "source": "OpenAI",
     "date": "2026-11-20T10:00:00+00:00",
     "url": "https://openai.com/index/combatting-adversarial-distillation",
     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+  },
+  {
+    "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+    "source": "QbitAI",
+    "date": "2026-11-20T08:59:15+00:00",
+    "url": "https://www.qbitai.com/2026/11/511679.html",
+    "summary": "联合华为昇腾，五年冲刺十万卡"
   },
   {
     "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
