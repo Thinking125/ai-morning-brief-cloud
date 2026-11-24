@@ -1,5 +1,110 @@
 [
   {
+    "title": "Google Cloud 出海峰会报名开启",
+    "source": "QbitAI",
+    "date": "2026-11-24T06:52:29+00:00",
+    "url": "https://www.qbitai.com/2026/11/512370.html",
+    "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
+  },
+  {
+    "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+    "source": "QbitAI",
+    "date": "2026-11-24T06:35:06+00:00",
+    "url": "https://www.qbitai.com/2026/11/512362.html",
+    "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+  },
+  {
+    "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+    "source": "QbitAI",
+    "date": "2026-11-24T06:22:28+00:00",
+    "url": "https://www.qbitai.com/2026/11/512354.html",
+    "summary": ""
+  },
+  {
+    "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+    "source": "QbitAI",
+    "date": "2026-11-24T06:15:38+00:00",
+    "url": "https://www.qbitai.com/2026/11/512348.html",
+    "summary": "11月19日，方程豹钛9上市，售价27.99万元起"
+  },
+  {
+    "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+    "source": "QbitAI",
+    "date": "2026-11-24T06:12:16+00:00",
+    "url": "https://www.qbitai.com/2026/11/512343.html",
+    "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
+  },
+  {
+    "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+    "source": "QbitAI",
+    "date": "2026-11-24T03:33:48+00:00",
+    "url": "https://www.qbitai.com/2026/11/512329.html",
+    "summary": "12.9 北京，来MEET2027现场"
+  },
+  {
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+    "source": "QbitAI",
+    "date": "2026-11-24T03:30:46+00:00",
+    "url": "https://www.qbitai.com/2026/11/512330.html",
+    "summary": "中国AI数据平台加速崛起"
+  },
+  {
+    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+    "source": "QbitAI",
+    "date": "2026-11-24T03:21:12+00:00",
+    "url": "https://www.qbitai.com/2026/11/512305.html",
+    "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
+  },
+  {
+    "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+    "source": "QbitAI",
+    "date": "2026-11-24T02:36:08+00:00",
+    "url": "https://www.qbitai.com/2026/11/512297.html",
+    "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。"
+  },
+  {
+    "title": "具身行业，终于等来了自己的通用智能时刻",
+    "source": "QbitAI",
+    "date": "2026-11-24T01:51:56+00:00",
+    "url": "https://www.qbitai.com/2026/11/512264.html",
+    "summary": "行业苦等多年的预训练通用智能，终于有了答案"
+  },
+  {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "source": "OpenAI",
+    "date": "2026-11-23T21:20:00+00:00",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+  },
+  {
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "source": "MIT Technology Review",
+    "date": "2026-11-23T17:36:08+00:00",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…"
+  },
+  {
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "source": "Google AI",
+    "date": "2026-11-23T17:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons"
+  },
+  {
+    "title": "Connected intelligence for in-house legal",
+    "source": "OpenAI",
+    "date": "2026-11-23T08:00:00+00:00",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+  },
+  {
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "source": "OpenAI",
+    "date": "2026-11-23T08:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+  },
+  {
     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
     "source": "QbitAI",
     "date": "2026-11-22T06:21:47+00:00",
