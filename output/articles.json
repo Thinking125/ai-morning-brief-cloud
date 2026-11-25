@@ -1,5 +1,89 @@
 [
   {
+    "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+    "source": "QbitAI",
+    "date": "2026-11-25T06:49:27+00:00",
+    "url": "https://www.qbitai.com/2026/11/512498.html",
+    "summary": "复杂场景三维建模成本降至10美元以内"
+  },
+  {
+    "title": "Claude Opus 5.6灰测效果来了",
+    "source": "QbitAI",
+    "date": "2026-11-25T02:43:07+00:00",
+    "url": "https://www.qbitai.com/2026/11/512478.html",
+    "summary": "整体效率大约是此前Opus版本的2到3倍。"
+  },
+  {
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "source": "Google AI",
+    "date": "2026-11-24T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+  },
+  {
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "source": "MIT Technology Review",
+    "date": "2026-11-24T15:15:16+00:00",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "OpenAI",
+    "date": "2026-11-24T13:00:00+00:00",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "source": "OpenAI",
+    "date": "2026-11-24T11:00:00+00:00",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+  },
+  {
+    "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+    "source": "QbitAI",
+    "date": "2026-11-24T10:30:42+00:00",
+    "url": "https://www.qbitai.com/2026/11/512454.html",
+    "summary": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。"
+  },
+  {
+    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+    "source": "QbitAI",
+    "date": "2026-11-24T10:15:57+00:00",
+    "url": "https://www.qbitai.com/2026/11/512451.html",
+    "summary": "蚂蚁刚刚发布医疗健康模型全家桶"
+  },
+  {
+    "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+    "source": "QbitAI",
+    "date": "2026-11-24T09:21:55+00:00",
+    "url": "https://www.qbitai.com/2026/11/512423.html",
+    "summary": "纯代码手搓了一个MV！"
+  },
+  {
+    "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+    "source": "QbitAI",
+    "date": "2026-11-24T08:44:32+00:00",
+    "url": "https://www.qbitai.com/2026/11/512411.html",
+    "summary": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行"
+  },
+  {
+    "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
+    "source": "QbitAI",
+    "date": "2026-11-24T08:34:03+00:00",
+    "url": "https://www.qbitai.com/2026/11/512387.html",
+    "summary": "探讨未来产业布局与结构性新周期下的资产配置机遇。"
+  },
+  {
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+    "source": "QbitAI",
+    "date": "2026-11-24T08:10:43+00:00",
+    "url": "https://www.qbitai.com/2026/11/512383.html",
+    "summary": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。"
+  },
+  {
     "title": "Google Cloud 出海峰会报名开启",
     "source": "QbitAI",
     "date": "2026-11-24T06:52:29+00:00",
@@ -68,6 +152,27 @@
     "date": "2026-11-24T01:51:56+00:00",
     "url": "https://www.qbitai.com/2026/11/512264.html",
     "summary": "行业苦等多年的预训练通用智能，终于有了答案"
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "source": "OpenAI",
+    "date": "2026-11-24T00:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+  },
+  {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "source": "OpenAI",
+    "date": "2026-11-24T00:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "summary": ""
+  },
+  {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "source": "OpenAI",
+    "date": "2026-11-24T00:00:00+00:00",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
   },
   {
     "title": "OpenAI and Cisco introduce Shirudo",
